@@ -1009,3 +1009,8 @@ config/Chikachi/discordintegration.json
 config/invsync/invsync.conf
 config/luckperms/luckperms.conf
 config/plan/config.yml
+config/mmctickets/mmctickets.conf
+mods/1.12.2/lycanitesmobs-1.12.2-2.0.3.1.jar
+mods/1.12.2/Mine and Slash-1.12.2-1.8.9.jar
+mods/1.12.2/Clans-1.12.2-1.4.3.jar
+mods/1.12.2/Xaeros_Minimap_1.19.1_Forge_1.12.jar
