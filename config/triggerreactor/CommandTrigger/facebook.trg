@@ -1,0 +1,1 @@
+#CMDCON "tell " + $playername + " https://www.facebook.com/theworldrcraft/" 

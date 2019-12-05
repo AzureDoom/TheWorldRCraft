@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "Lios",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Crest in the Woods",
+    "Text": "You need to chase away Arvakv explorer, who found the crest, so that it can be examined by the sages.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 5,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 15,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 60,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 35,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 18,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1558352265194L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "You have secured the crest. Ogmios can now explore it alone.",
+    "NextQuestTitle": ""
+}

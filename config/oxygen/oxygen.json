@@ -1,0 +1,8 @@
+{
+  "version": "0.8.2:beta:0",
+  "main": {
+    "sync_configs": true,
+    "sync_privileges": true,
+    "enable_privileges": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+    "CompleterNpc": "BT",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 1b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "The Path to Twilight",
+    "Text": "@p come here. Have you heard of the Key of the Twilight? I just got a lead to it's location. I can't go, because that old man Bear is watching me, but could you go to Hulle Granz and look around for me? ",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "/givexp @dp 20",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1570599763953L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "mmorpg:add_secondary_stat",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "That was slow... I could have gone there myself. Anyway... Thanks... Looks like Hulle Granz Cathedral is the right place.",
+    "NextQuestTitle": "",
+    "QuestLocation": "The Twilight Eye"
+}

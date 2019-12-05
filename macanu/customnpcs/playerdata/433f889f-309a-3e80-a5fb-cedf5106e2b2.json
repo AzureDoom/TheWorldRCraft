@@ -1,0 +1,429 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ftbquests:screen",
+                                "Count": 1b,
+                                "tag": {
+                                    "BlockEntityTag": {
+                                        "Task": -712555151,
+                                        "Size": 1b,
+                                        "id": "ftbquests:screen_core"
+                                    },
+                                    "display": {
+                                        "Lore": [
+                                            "(+NBT)"
+                                        ]
+                                    }
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:wheat_seeds",
+                                "Count": 37b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 2b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:firework_charge",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 3b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "desertmobs:sutiramustinger",
+                                "Count": 1b,
+                                "tag": {
+                                    "equipmentLevel": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 4b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "desertmobs:sutiramustinger",
+                                "Count": 1b,
+                                "tag": {
+                                    "equipmentLevel": 2
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 5b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "plainsmobs:ventoraptorskull",
+                                "Count": 1b,
+                                "tag": {
+                                    "equipmentLevel": 3
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 6b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:rabbit_hide",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 7b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "infernomobs:scorchfirecharge",
+                                "Count": 5b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 3s
+                            },
+                            {
+                                "Slot": 9b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 2s
+                            },
+                            {
+                                "Slot": 10b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:dirt",
+                                "Count": 17b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 11b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:sapling",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:potion",
+                                "Count": 1b,
+                                "tag": {
+                                    "RepairCost": 0,
+                                    "Potion": "minecraft:strength",
+                                    "display": {
+                                        "Name": "Warrior Blood"
+                                    }
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 13b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:magma_cream",
+                                "Count": 3b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 14b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:potion",
+                                "Count": 1b,
+                                "tag": {
+                                    "RepairCost": 0,
+                                    "Potion": "minecraft:regeneration",
+                                    "display": {
+                                        "Name": "Health Drink"
+                                    }
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 18b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 177s
+                            }
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:ore0",
+                                "Count": 10b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:ore1",
+                                "Count": 20b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 2b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:ore2",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 3b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:ore3",
+                                "Count": 6b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 4b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:ore4",
+                                "Count": 5b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 9b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:randomize_prefix",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 10b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:number_reroll",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 11b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:randomize_suffix",
+                                "Count": 4b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:add_secondary_stat",
+                                "Count": 3b,
+                                "Damage": 0s
+                            }
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 0b
+                }
+            ],
+            "DataBankId": 0,
+            "UnlockedSlots": 2
+        }
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "unnamedauthor",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 1
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 2
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 5
+            }
+        ]
+    },
+    "UUID": "433f889f-309a-3e80-a5fb-cedf5106e2b2",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        }
+    ]
+}

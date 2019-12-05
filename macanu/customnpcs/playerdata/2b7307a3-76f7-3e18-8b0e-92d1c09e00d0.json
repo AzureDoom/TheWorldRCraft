@@ -1,0 +1,43 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "DarkOnox",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 6
+            }
+        ]
+    },
+    "UUID": "2b7307a3-76f7-3e18-8b0e-92d1c09e00d0",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 28
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Firepunch",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 617585619L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "54b37314-6876-3d04-89f8-a6e3652083fd",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 25
+        }
+    ]
+}

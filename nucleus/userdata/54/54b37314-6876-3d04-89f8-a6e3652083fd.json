@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "fly": false,
+  "lastKnownName": "Firepunch",
+  "lastLogin": 1567389977428,
+  "lastLogout": 1567392106554,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1567389977428,
+  "startedFirstJoin": false,
+  "homes": {},
+  "warnings": [],
+  "notes": [],
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "isFrozen": false,
+  "lastLocation": {
+    "x": 8.96590875440407,
+    "y": 27.875,
+    "z": -15.99558664259873,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

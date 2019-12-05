@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "Neko_Amber",
+  "lastLogin": 1570365131777,
+  "lastLogout": 1570365903257,
+  "lastIP": "/109.208.99.60",
+  "firstJoin": 1570365131777,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "notes": [],
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "warnings": [],
+  "mail": [],
+  "homes": {},
+  "lastLocation": {
+    "x": 7.2598370339503475,
+    "y": 28.0,
+    "z": -24.57460668372353,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

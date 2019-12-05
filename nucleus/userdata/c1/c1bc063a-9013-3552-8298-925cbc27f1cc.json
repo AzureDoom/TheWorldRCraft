@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "warnings": [],
+  "vanish": false,
+  "mail": [],
+  "fly": false,
+  "homes": {},
+  "notes": [],
+  "lastKnownName": "Theswedishpilot",
+  "lastLogin": 1569957471476,
+  "lastLogout": 1569957904672,
+  "lastIP": "/193.13.43.200",
+  "firstJoin": 1569957471476,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "lastLocation": {
+    "x": 119.96187810045569,
+    "y": 39.0,
+    "z": 9.19226246040228,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "27bd1fd3-cf2f-4d59-8a3e-b3a64decaca8"
+  }
+}

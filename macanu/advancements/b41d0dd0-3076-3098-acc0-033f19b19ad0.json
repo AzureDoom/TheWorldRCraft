@@ -1,0 +1,33 @@
+{
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "snare": "2019-10-13 18:00:36 +0000",
+      "magic_missile": "2019-10-13 17:50:53 +0000"
+    },
+    "done": false
+  },
+  "ebwizardry:armour_set": {
+    "criteria": {
+      "wizard_hat": "2019-10-13 17:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-10-13 17:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-10-13 18:00:44 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2019-10-13 17:50:53 +0000"
+    },
+    "done": true
+  }
+}

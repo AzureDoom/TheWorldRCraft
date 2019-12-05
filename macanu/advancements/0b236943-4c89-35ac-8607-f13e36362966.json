@@ -1,0 +1,32 @@
+{
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2018-10-03 19:23:55 -0500"
+    },
+    "done": true
+  },
+  "ebwizardry:armour_set": {
+    "criteria": {
+      "criteria_0": "2018-10-03 19:24:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-10-03 19:28:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-11-02 19:17:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2018-10-03 19:28:02 -0500"
+    },
+    "done": false
+  }
+}

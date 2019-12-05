@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "warnings": [],
+  "notes": [],
+  "lastKnownName": "PLAN__",
+  "lastLogin": 1571509177638,
+  "lastLogout": 1571509920159,
+  "lastIP": "/183.103.81.229",
+  "firstJoin": 1571509177638,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "homes": {},
+  "lastLocation": {
+    "x": 96.68482987988048,
+    "y": 39.0,
+    "z": 8.953682153128952,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "27bd1fd3-cf2f-4d59-8a3e-b3a64decaca8"
+  }
+}

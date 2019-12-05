@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "Pinkalyn",
+  "lastLocation": {
+    "x": -13.681276226205725,
+    "y": 22.1875,
+    "z": 14.79293170257776,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "lastLogin": 1571254827275,
+  "lastLogout": 1571275196475,
+  "lastIP": "/24.237.50.3",
+  "firstJoin": 1570584514671,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "mail": [],
+  "warnings": [],
+  "notes": [],
+  "homes": {}
+}

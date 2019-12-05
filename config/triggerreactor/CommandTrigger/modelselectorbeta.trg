@@ -1,0 +1,1 @@
+#CMDOP "morph " + $playername + " skin_n_bones.macha" 

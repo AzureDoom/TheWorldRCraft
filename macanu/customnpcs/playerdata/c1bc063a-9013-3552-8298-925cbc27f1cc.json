@@ -1,0 +1,37 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Theswedishpilot",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "c1bc063a-9013-3552-8298-925cbc27f1cc",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        }
+    ]
+}

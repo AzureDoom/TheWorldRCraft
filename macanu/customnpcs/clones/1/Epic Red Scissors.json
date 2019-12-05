@@ -1,0 +1,1157 @@
+{
+    "ReturnToStart": 1b,
+    "NpcInv": [
+    ],
+    "BossColor": 0,
+    "PotionEffect": 0,
+    "Size": 8,
+    "stopAndInteract": 1b,
+    "Resistances": {
+        "Arrow": 1.0f,
+        "Explosion": 1.0f,
+        "Knockback": 1.0f,
+        "Melee": 0.4084507f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 2000,
+    "NpcAngrySound": "",
+    "ReactsToFire": 0b,
+    "IgnoreCobweb": 0b,
+    "PositionOffsetZ": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetX": 5.0f,
+    "LootMode": 0,
+    "TransformHasAI": 0b,
+    "AttackStrenght": 5,
+    "PersistenceRequired": 0b,
+    "id": "customnpcs:customnpc",
+    "IsStatue": 0b,
+    "MovingPatern": 0,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "DefendFaction": 0b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "HitSound": "minecraft:entity.arrow.hit",
+    "FindShelter": 2,
+    "Air": 300s,
+    "TacticalVariant": 3,
+    "Orientation": 0,
+    "ScriptLanguage": "ECMAScript",
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "KnockBack": 0,
+    "TransformHasJob": 0b,
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "BurnInSun": 0b,
+    "StandingState": 0,
+    "AttackInvisible": 0b,
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
+    "HurtTime": 0s,
+    "WalkingRange": 10,
+    "ShotCount": 1,
+    "pDur": 5,
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "Texture": "saltwatermobs:textures/entity/herma.png",
+    "NpcJob": 0,
+    "BurstCount": 1,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "pSpeed": 10,
+    "pArea": 0,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "MoveState": 0,
+    "pRender3D": 1b,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CombatRegen": 0,
+    "NpcsTimers": [
+    ],
+    "pEffect": 0,
+    "DistanceToMelee": 0,
+    "NpcStepSound": "",
+    "FireRate": 5,
+    "LeftHanded": 0b,
+    "pEffAmp": 0,
+    "OnGround": 1b,
+    "Dimension": 15,
+    "ImmuneToFire": 0b,
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "Fire": -1s,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "DisablePitch": 0b,
+    "pPhysics": 1b,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+        ]
+    },
+    "HurtByTimestamp": 13506,
+    "pSpin": 0b,
+    "NpcHurtSound": "minecraft:entity.player.hurt",
+    "pTrail": 0,
+    "CreatureType": 0,
+    "Attributes": [
+        {
+            "Base": 20.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.25d,
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.armor"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.armorToughness"
+        },
+        {
+            "Base": 1.0d,
+            "Name": "forge.swimSpeed"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 5.0d,
+            "Name": "generic.attackDamage"
+        },
+        {
+            "Base": 2.5d,
+            "Name": "generic.flyingSpeed"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "NoFallDamage": 0b,
+    "AbsorptionAmount": 0.0f,
+    "TransformHasRole": 0b,
+    "Name": "Red Scissors",
+    "FallDistance": 0.0f,
+    "SkinColor": 16777215,
+    "NpcIdleSound": "",
+    "Weapons": [
+    ],
+    "NPCDialogOptions": [
+    ],
+    "AggroRange": 3,
+    "DirectLOS": 0b,
+    "HealthRegen": 0,
+    "ForgeCaps": {
+        "mmorpg:entitydata": {
+            "unit_object": {
+                "statusEffects": [
+                ],
+                "MyStats": [
+                    {
+                        "val": {
+                            "Value": 40.0f,
+                            "Name": "Thunder Resist"
+                        },
+                        "key": "Thunder Resist"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Water To Thunder Conversion"
+                        },
+                        "key": "Water To Thunder Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Fire To Nature Conversion"
+                        },
+                        "key": "Fire To Nature Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Fire To Thunder Transfer"
+                        },
+                        "key": "Fire To Thunder Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Elemental"
+                        },
+                        "key": "Elemental"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Water Penetration"
+                        },
+                        "key": "Water Penetration"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Golem"
+                        },
+                        "key": "Golem"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Nature To Thunder Conversion"
+                        },
+                        "key": "Nature To Thunder Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Renamed or Deleted Stat Error"
+                        },
+                        "key": "Renamed or Deleted Stat Error"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Buff Mana Regen"
+                        },
+                        "key": "Buff Mana Regen"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Thunder To Water Transfer"
+                        },
+                        "key": "Thunder To Water Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Thunder To Nature Transfer"
+                        },
+                        "key": "Thunder To Nature Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Nature To Fire Conversion"
+                        },
+                        "key": "Nature To Fire Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 5.0f,
+                            "Name": "Physical Damage"
+                        },
+                        "key": "Physical Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Thunder To Water Conversion"
+                        },
+                        "key": "Thunder To Water Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Fire To Thunder Conversion"
+                        },
+                        "key": "Fire To Thunder Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Ghost Projectile"
+                        },
+                        "key": "Ghost Projectile"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Mana"
+                        },
+                        "key": "Mana"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Nature Spell to Attack DMG"
+                        },
+                        "key": "Nature Spell to Attack DMG"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Dodge"
+                        },
+                        "key": "Dodge"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "ManaToEnergyConversion"
+                        },
+                        "key": "ManaToEnergyConversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Clumsy Scholar"
+                        },
+                        "key": "Clumsy Scholar"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "BlockStrength"
+                        },
+                        "key": "BlockStrength"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Lord Of Thunderstorms"
+                        },
+                        "key": "Lord Of Thunderstorms"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Barbarian"
+                        },
+                        "key": "Barbarian"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Energy"
+                        },
+                        "key": "Energy"
+                    },
+                    {
+                        "val": {
+                            "Value": 70.0f,
+                            "Name": "Spell Fire Damage"
+                        },
+                        "key": "Spell Fire Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "LowCritHitAddHealthMulti"
+                        },
+                        "key": "LowCritHitAddHealthMulti"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Lord Of Earthquakes"
+                        },
+                        "key": "Lord Of Earthquakes"
+                    },
+                    {
+                        "val": {
+                            "Value": 40.0f,
+                            "Name": "Water Resist"
+                        },
+                        "key": "Water Resist"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Water Spell to Attack DMG"
+                        },
+                        "key": "Water Spell to Attack DMG"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Fire To Water Conversion"
+                        },
+                        "key": "Fire To Water Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Hammer Damage"
+                        },
+                        "key": "Hammer Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 40.0f,
+                            "Name": "Fire Resist"
+                        },
+                        "key": "Fire Resist"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Bow Damage"
+                        },
+                        "key": "Bow Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "HighDodgeAddPhysDamage"
+                        },
+                        "key": "HighDodgeAddPhysDamage"
+                    },
+                    {
+                        "val": {
+                            "Value": 70.0f,
+                            "Name": "Spell Water Damage"
+                        },
+                        "key": "Spell Water Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Spell Dodge"
+                        },
+                        "key": "Spell Dodge"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Shining Light"
+                        },
+                        "key": "Shining Light"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "All Water Damage"
+                        },
+                        "key": "All Water Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "All Fire Damage"
+                        },
+                        "key": "All Fire Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Mana Regen"
+                        },
+                        "key": "Mana Regen"
+                    },
+                    {
+                        "val": {
+                            "Value": 70.0f,
+                            "Name": "Spell Thunder Damage"
+                        },
+                        "key": "Spell Thunder Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Water To Fire Conversion"
+                        },
+                        "key": "Water To Fire Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Lord Of Volcanoes"
+                        },
+                        "key": "Lord Of Volcanoes"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Life On Hit"
+                        },
+                        "key": "Life On Hit"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "HighCritAddArmor"
+                        },
+                        "key": "HighCritAddArmor"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "LowCritHitAddDodgeFlat"
+                        },
+                        "key": "LowCritHitAddDodgeFlat"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Purity"
+                        },
+                        "key": "Purity"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "LowDodgeAddArmor"
+                        },
+                        "key": "LowDodgeAddArmor"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Staff Damage"
+                        },
+                        "key": "Staff Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "EnergyToManaConversion"
+                        },
+                        "key": "EnergyToManaConversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Crippled"
+                        },
+                        "key": "Crippled"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Fire Spell to Attack DMG"
+                        },
+                        "key": "Fire Spell to Attack DMG"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Nature To Water Conversion"
+                        },
+                        "key": "Nature To Water Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Thunder Penetration"
+                        },
+                        "key": "Thunder Penetration"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Zephyr's Speed"
+                        },
+                        "key": "Zephyr's Speed"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "All Thunder Damage"
+                        },
+                        "key": "All Thunder Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Water To Thunder Transfer"
+                        },
+                        "key": "Water To Thunder Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Fire To Water Transfer"
+                        },
+                        "key": "Fire To Water Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Mana On Hit"
+                        },
+                        "key": "Mana On Hit"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Attack Thunder Damage"
+                        },
+                        "key": "Attack Thunder Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Nature Penetration"
+                        },
+                        "key": "Nature Penetration"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "All Nature Damage"
+                        },
+                        "key": "All Nature Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Thunder Spell to Attack DMG"
+                        },
+                        "key": "Thunder Spell to Attack DMG"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Lord Of Blizzards"
+                        },
+                        "key": "Lord Of Blizzards"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Lucky"
+                        },
+                        "key": "Lucky"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Attack Fire Damage"
+                        },
+                        "key": "Attack Fire Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Diseased"
+                        },
+                        "key": "Diseased"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Water To Nature Conversion"
+                        },
+                        "key": "Water To Nature Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Thunder To Fire Transfer"
+                        },
+                        "key": "Thunder To Fire Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 40.0f,
+                            "Name": "Nature Resist"
+                        },
+                        "key": "Nature Resist"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Earth Atronach"
+                        },
+                        "key": "Earth Atronach"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Fire To Nature Transfer"
+                        },
+                        "key": "Fire To Nature Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Sword Damage"
+                        },
+                        "key": "Sword Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Health Regen"
+                        },
+                        "key": "Health Regen"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Nature To Fire Transfer"
+                        },
+                        "key": "Nature To Fire Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Buff Energy Regen"
+                        },
+                        "key": "Buff Energy Regen"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Stealthy"
+                        },
+                        "key": "Stealthy"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Fire Penetration"
+                        },
+                        "key": "Fire Penetration"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Nature To Water Transfer"
+                        },
+                        "key": "Nature To Water Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Frost Atronach"
+                        },
+                        "key": "Frost Atronach"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "HighCritAddLifesteal"
+                        },
+                        "key": "HighCritAddLifesteal"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Armored"
+                        },
+                        "key": "Armored"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Homing"
+                        },
+                        "key": "Homing"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Fire Atronach"
+                        },
+                        "key": "Fire Atronach"
+                    },
+                    {
+                        "val": {
+                            "Value": 100.0f,
+                            "Name": "Armor"
+                        },
+                        "key": "Armor"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Thunder To Fire Conversion"
+                        },
+                        "key": "Thunder To Fire Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Nature To Thunder Transfer"
+                        },
+                        "key": "Nature To Thunder Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Thunder To Nature Conversion"
+                        },
+                        "key": "Thunder To Nature Conversion"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Water To Nature Transfer"
+                        },
+                        "key": "Water To Nature Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Attack Nature Damage"
+                        },
+                        "key": "Attack Nature Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 440.0f,
+                            "Name": "Health"
+                        },
+                        "key": "Health"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Thunder Atronach"
+                        },
+                        "key": "Thunder Atronach"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Attack Water Damage"
+                        },
+                        "key": "Attack Water Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Axe Damage"
+                        },
+                        "key": "Axe Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "LowDodgeAddCritHit"
+                        },
+                        "key": "LowDodgeAddCritHit"
+                    },
+                    {
+                        "val": {
+                            "Value": 11.0f,
+                            "Name": "Critical Hit"
+                        },
+                        "key": "Critical Hit"
+                    },
+                    {
+                        "val": {
+                            "Value": 70.0f,
+                            "Name": "Spell Nature Damage"
+                        },
+                        "key": "Spell Nature Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Energy Regen"
+                        },
+                        "key": "Energy Regen"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Armor Penetration"
+                        },
+                        "key": "Armor Penetration"
+                    },
+                    {
+                        "val": {
+                            "Value": 30.0f,
+                            "Name": "Critical Damage"
+                        },
+                        "key": "Critical Damage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Water To Fire Transfer"
+                        },
+                        "key": "Water To Fire Transfer"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "HighDodgeAddCritDamage"
+                        },
+                        "key": "HighDodgeAddCritDamage"
+                    },
+                    {
+                        "val": {
+                            "Value": 0.0f,
+                            "Name": "Lifesteal"
+                        },
+                        "key": "Lifesteal"
+                    }
+                ],
+                "WornSets": [
+                ],
+                "GUID": "0611032a-919d-4ee3-8a0a-276f8d1d8b6f",
+                "mapAffixes": [
+                ]
+            },
+            "current_energy": 0.0f,
+            "level": 5,
+            "mob_saved_once": 1b,
+            "current_mana": 0.0f,
+            "name": "",
+            "current_map_id": 0,
+            "id": 826,
+            "exp": 0,
+            "uuid": "",
+            "rarity": 3
+        },
+        "lycanitesmobs:iextendedentity": {
+        }
+    },
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "NpcModelData": {
+        "LegsConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.012000002f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "BodyConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "Eyes": {
+            "Pattern": 0b,
+            "Glint": 1b,
+            "Type": 0b,
+            "PositionY": 1,
+            "SkinColor": 11830381,
+            "PlayerTexture": 0b,
+            "Color": 10040115,
+            "BrowColor": 5982516,
+            "BrowThickness": 4
+        },
+        "EntityClass": "com.lycanitesmobs.saltwatermobs.entity.EntityHerma",
+        "LegParts": {
+            "Pattern": 0b,
+            "Type": 0b,
+            "PlayerTexture": 0b,
+            "Color": 16777215
+        },
+        "Parts": [
+        ],
+        "ArmsConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": -0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "ExtraData": {
+        },
+        "HeadConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        }
+    },
+    "minDelay": 20,
+    "DoorInteract": 2,
+    "MoveSpeed": 5,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 0b,
+    "Leashed": 0b,
+    "SkinUrl": "",
+    "CanSwim": 1b,
+    "GroundSound": "minecraft:block.stone.break",
+    "MaxHealth": 20,
+    "HideBodyWhenKilled": 1b,
+    "AttackSpeed": 20,
+    "PotionDuration": 5,
+    "maxDelay": 40,
+    "ScriptEnabled": 0b,
+    "Role": 0,
+    "DropChance": [
+        {
+            "Integer": 100,
+            "Slot": 0
+        },
+        {
+            "Integer": 100,
+            "Slot": 1
+        },
+        {
+            "Integer": 100,
+            "Slot": 2
+        },
+        {
+            "Integer": 100,
+            "Slot": 3
+        },
+        {
+            "Integer": 100,
+            "Slot": 4
+        },
+        {
+            "Integer": 100,
+            "Slot": 5
+        },
+        {
+            "Integer": 100,
+            "Slot": 6
+        },
+        {
+            "Integer": 100,
+            "Slot": 7
+        },
+        {
+            "Integer": 100,
+            "Slot": 8
+        }
+    ],
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 4,
+    "KilledTime": 0L,
+    "AimWhileShooting": 0b,
+    "CanPickUpLoot": 0b,
+    "AttackOtherFactions": 0b,
+    "CanDrown": 1b,
+    "pSize": 5,
+    "CanSprint": 0b,
+    "CanLeap": 0b,
+    "TransformIsActive": 0b,
+    "ForgeData": {
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        },
+        "SpongeData": {
+            "CanGrief": 1b,
+            "maxAir": 300,
+            "Creator": {
+                "UUIDMost": 8379205170122210008L,
+                "UUIDLeast": -5834463025632434654L
+            },
+            "Notifier": {
+                "UUIDMost": 8379205170122210008L,
+                "UUIDLeast": -5834463025632434654L
+            }
+        }
+    },
+    "MovingState": 0,
+    "MovingPos": 0,
+    "PotionAmp": 0,
+    "RelativeAABB": [
+        -0.7199999690055847d,
+        0.0d,
+        -0.7199999690055847d,
+        0.7199999690055847d,
+        1.4399999380111694d,
+        0.7199999690055847d
+    ],
+    "OnAttack": 0,
+    "TacticalRadius": 8,
+    "FallFlying": 0b,
+    "MaxExp": 0,
+    "OrderedLines": 0b,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasStats": 0b,
+    "MovementType": 0,
+    "FiringSound": "minecraft:entity.arrow.shoot",
+    "ModRev": 18,
+    "Accuracy": 60,
+    "MinExp": 0,
+    "Armor": [
+    ],
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "MaxFiringRange": 15,
+    "pXlr8": 0b,
+    "Scripts": [
+    ],
+    "Health": 20.0f,
+    "pStick": 0b,
+    "MovingPause": 1b,
+    "NpcDeathSound": "minecraft:entity.player.hurt",
+    "FactionID": 2,
+    "Title": "",
+    "TotalTicksAlive": 10673L,
+    "Rotation": [
+        2.2309036f,
+        0.0f
+    ],
+    "ShowName": 1,
+    "npcInteracting": 1b,
+    "UpdateBlocked": 0b,
+    "AvoidsWater": 0b,
+    "NoLivingAnimation": 0b,
+    "SpawnCycle": 0
+}

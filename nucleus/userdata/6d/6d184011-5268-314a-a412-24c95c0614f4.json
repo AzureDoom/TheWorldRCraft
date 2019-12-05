@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "TytusArcanine",
+  "lastLogin": 1569391426545,
+  "lastLogout": 1569392363774,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1569391426545,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "notes": [],
+  "fly": false,
+  "mail": [],
+  "homes": {},
+  "isFrozen": false,
+  "jailOnNextLogin": false,
+  "warnings": [],
+  "invulnerable": false,
+  "lastLocation": {
+    "x": 6.1799231451583285,
+    "y": 77.0,
+    "z": 24.539806683545258,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "69eadc7e-dfa5-4dde-8fc4-960e7b3d9daf"
+  }
+}

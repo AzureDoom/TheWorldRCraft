@@ -1,0 +1,1 @@
+#CMDCON "tell " + $playername + " https://www.youtube.com/channel/UChLBPg_65LefDPlfyLXY0zg" 

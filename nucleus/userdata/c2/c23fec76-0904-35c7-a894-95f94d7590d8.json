@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "warnings": [],
+  "mail": [],
+  "fly": false,
+  "lastKnownName": "natelovesyou",
+  "lastLogin": 1573383366287,
+  "lastLogout": 1573384433176,
+  "lastIP": "/207.135.130.62",
+  "firstJoin": 1573383366287,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "notes": [],
+  "homes": {},
+  "ignoreList": [],
+  "lastLocation": {
+    "x": 8.0,
+    "y": 25.0,
+    "z": 86.0,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "6af0b50d-899f-492a-98a4-223de0fd4a85"
+  }
+}

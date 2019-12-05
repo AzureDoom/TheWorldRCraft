@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "vanish": false,
+  "notes": [],
+  "warnings": [],
+  "invulnerable": false,
+  "homes": {},
+  "fly": false,
+  "mail": [],
+  "ignoreList": [],
+  "lastKnownName": "KrazyKlaric7",
+  "lastLogin": 1569769449671,
+  "lastLogout": 1569770635969,
+  "lastIP": "/176.59.50.97",
+  "firstJoin": 1569769449671,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "lastLocation": {
+    "x": 8.492823341861367,
+    "y": 28.0,
+    "z": -22.073395744761914,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

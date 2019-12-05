@@ -1,0 +1,39 @@
+{
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "summon_zombie": "2019-11-10 06:05:32 +0000",
+      "magic_missile": "2019-11-10 06:05:24 +0000"
+    },
+    "done": false
+  },
+  "ebwizardry:armour_set": {
+    "criteria": {
+      "wizard_hat": "2019-11-10 05:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-11-10 05:55:55 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2019-11-10 06:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-11-10 05:52:37 +0000"
+    },
+    "done": false
+  },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "summon_zombie": "2019-11-10 06:05:32 +0000"
+    },
+    "done": true
+  }
+}

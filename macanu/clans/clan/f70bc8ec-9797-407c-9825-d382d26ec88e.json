@@ -1,0 +1,202 @@
+{
+  "clanName": "Admins",
+  "clanDescription": "This is a new clan.",
+  "members": [
+    {
+      "key": "80608ea8-d212-39ae-ac28-c2fc6b36d2bb",
+      "value": "LEADER"
+    }
+  ],
+  "clanId": "f70bc8ec-9797-407c-9825-d382d26ec88e",
+  "homeX": 0.0,
+  "homeY": 0.0,
+  "homeZ": 0.0,
+  "hasHome": false,
+  "homeDimension": 0,
+  "rent": 0,
+  "wins": 0,
+  "losses": 0,
+  "shield": 0,
+  "rentTimestamp": 1573472423367,
+  "upkeepTimestamp": 1573472423367,
+  "color": 8031729,
+  "permissions": [
+    {
+      "name": "access",
+      "value": "MEMBER",
+      "overrides": []
+    },
+    {
+      "name": "setrent",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "interact",
+      "value": "MEMBER",
+      "overrides": []
+    },
+    {
+      "name": "harmmob",
+      "value": "MEMBER",
+      "overrides": []
+    },
+    {
+      "name": "promote",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "autoclaim",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "setcolor",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "sethome",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "claim",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "lock",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "denyaccess",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "takefunds",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "abandonclaim",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "disband",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "setdescription",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "setbanner",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "grantaccess",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "lockadmin",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "set",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "unlock",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "lockchunk",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "harmanimal",
+      "value": "MEMBER",
+      "overrides": []
+    },
+    {
+      "name": "unlockchunk",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "setname",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "demote",
+      "value": "LEADER",
+      "overrides": []
+    },
+    {
+      "name": "kick",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "build",
+      "value": "MEMBER",
+      "overrides": []
+    },
+    {
+      "name": "autoabandon",
+      "value": "ADMIN",
+      "overrides": []
+    },
+    {
+      "name": "invite",
+      "value": "ADMIN",
+      "overrides": []
+    }
+  ],
+  "locks": [],
+  "options": [
+    {
+      "name": "upkeepexemption",
+      "value": 0
+    },
+    {
+      "name": "server",
+      "value": 0
+    },
+    {
+      "name": "claimcost",
+      "value": -1
+    },
+    {
+      "name": "mobspawning",
+      "value": -1
+    },
+    {
+      "name": "mobdamage",
+      "value": 1
+    },
+    {
+      "name": "maxclaims",
+      "value": -1
+    },
+    {
+      "name": "dynmapvisible",
+      "value": 1
+    }
+  ],
+  "addonData": []
+}

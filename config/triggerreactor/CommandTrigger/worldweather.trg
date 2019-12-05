@@ -1,0 +1,1 @@
+#CMD "world gamerule set doWeatherCycle false" 

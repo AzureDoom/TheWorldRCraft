@@ -1,0 +1,13 @@
+{
+  "spawn-rotation": {
+    "rotx": -1.049630045890808,
+    "roty": 19.800199508666992,
+    "rotz": 0.0
+  },
+  "start-pregen": false,
+  "save-time": 20,
+  "tick-percent": 80,
+  "tick-freq": 4,
+  "aggressive": false,
+  "lock-weather": false
+}

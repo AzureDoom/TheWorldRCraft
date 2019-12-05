@@ -1,0 +1,8 @@
+{
+  "start-pregen": false,
+  "save-time": 20,
+  "tick-percent": 80,
+  "tick-freq": 4,
+  "aggressive": false,
+  "lock-weather": false
+}

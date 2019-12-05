@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "warnings": [],
+  "mail": [],
+  "fly": false,
+  "lastKnownName": "equalavor",
+  "lastLogin": 1573617811742,
+  "lastLogout": 1573619941959,
+  "lastIP": "/24.127.40.138",
+  "firstJoin": 1573613659508,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "notes": [],
+  "homes": {},
+  "lastLocation": {
+    "x": 0.0,
+    "y": 25.0,
+    "z": 81.0,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "a4b18641-87a7-409c-b187-6ab368a538c9"
+  }
+}

@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1573359941285,
+    "name": "defaultGroup",
+    "prefix": "",
+    "suffix": "",
+    "username_color": "white",
+    "prefix_color": "white",
+    "suffix_color": "white",
+    "chat_color": "white",
+    "privileges": []
+  },
+  {
+    "id": 1573359941296,
+    "name": "operatorsGroup",
+    "prefix": "",
+    "suffix": "",
+    "username_color": "white",
+    "prefix_color": "white",
+    "suffix_color": "white",
+    "chat_color": "white",
+    "privileges": [
+      {
+        "name": "mail:packageMaxAmount",
+        "type": 1,
+        "value": 1000
+      },
+      {
+        "name": "teleportation:enableMoveToLockedLocations",
+        "type": 0,
+        "value": true
+      },
+      {
+        "name": "teleportation:locationTeleportDelay",
+        "type": 1,
+        "value": 0
+      },
+      {
+        "name": "mail:mailboxSize",
+        "type": 1,
+        "value": 150
+      },
+      {
+        "name": "mail:letterPostageValue",
+        "type": 2,
+        "value": 0
+      },
+      {
+        "name": "teleportation:processTeleportationOnMove",
+        "type": 0,
+        "value": true
+      },
+      {
+        "name": "teleportation:campTeleportDelay",
+        "type": 1,
+        "value": 0
+      },
+      {
+        "name": "friends_list::preventIgnore",
+        "type": 0,
+        "value": true
+      },
+      {
+        "name": "mail:mailSendingDelaySeconds",
+        "type": 1,
+        "value": 10
+      },
+      {
+        "name": "mail:packageWithCODPostagePercent",
+        "type": 1,
+        "value": 0
+      },
+      {
+        "name": "teleportation:locationTeleportCooldown",
+        "type": 1,
+        "value": 0
+      },
+      {
+        "name": "teleportation:playerTeleportCooldown",
+        "type": 1,
+        "value": 0
+      },
+      {
+        "name": "mail:remittanceMaxValue",
+        "type": 2,
+        "value": 1000000
+      },
+      {
+        "name": "teleportation:enableTeleportationToAnyPlayer",
+        "type": 0,
+        "value": true
+      },
+      {
+        "name": "mail:remittancePostagePercent",
+        "type": 1,
+        "value": 0
+      },
+      {
+        "name": "teleportation:enableCrossDimTeleportation",
+        "type": 0,
+        "value": true
+      },
+      {
+        "name": "teleportation:locationsManagement",
+        "type": 0,
+        "value": true
+      },
+      {
+        "name": "core:exposePlayersOffline",
+        "type": 0,
+        "value": true
+      },
+      {
+        "name": "mail:packageWithCODMaxValue",
+        "type": 2,
+        "value": 100000
+      },
+      {
+        "name": "teleportation:playerTeleportDelay",
+        "type": 1,
+        "value": 0
+      },
+      {
+        "name": "mail:packagePostageValue",
+        "type": 2,
+        "value": 0
+      },
+      {
+        "name": "teleportation:campTeleportCooldown",
+        "type": 1,
+        "value": 0
+      }
+    ]
+  }
+]

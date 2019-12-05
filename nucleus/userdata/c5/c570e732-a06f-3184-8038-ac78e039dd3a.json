@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "vanish": false,
+  "fly": false,
+  "lastKnownName": "Blockbug",
+  "lastLocation": {
+    "x": -12.762792190891721,
+    "y": 22.1875,
+    "z": 15.63040562004273,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "lastLogin": 1570653325546,
+  "lastLogout": 1570655779992,
+  "lastIP": "/188.210.62.194",
+  "firstJoin": 1569963893196,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "mail": [],
+  "homes": {},
+  "notes": [],
+  "warnings": []
+}

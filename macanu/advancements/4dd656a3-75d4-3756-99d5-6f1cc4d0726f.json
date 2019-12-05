@@ -1,0 +1,45 @@
+{
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2019-11-03 00:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-11-02 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-11-03 00:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "skeleton": "2019-11-03 00:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2019-11-03 00:15:32 +0000",
+      "zombie": "2019-11-03 00:16:50 +0000"
+    },
+    "done": false
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2019-11-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "lightning_wraith": "2019-11-03 00:17:25 +0000"
+    },
+    "done": true
+  }
+}

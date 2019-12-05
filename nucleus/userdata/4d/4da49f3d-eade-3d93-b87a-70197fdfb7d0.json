@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "warnings": [],
+  "notes": [],
+  "lastKnownName": "Zerocool152",
+  "lastLogin": 1571823681734,
+  "lastLogout": 1571825762526,
+  "lastIP": "/216.186.192.21",
+  "firstJoin": 1571823681734,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "homes": {},
+  "lastLocation": {
+    "x": 9.7358188381296,
+    "y": 25.0,
+    "z": 12.286931737621686,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

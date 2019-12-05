@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "warnings": [],
+  "homes": {},
+  "jailOnNextLogin": false,
+  "fly": false,
+  "lastKnownName": "Sun_Franki_Sama",
+  "lastLogin": 1572857119591,
+  "lastLogout": 1572857598756,
+  "lastIP": "/77.152.58.21",
+  "firstJoin": 1572857119591,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "vanish": false,
+  "mail": [],
+  "notes": [],
+  "lastLocation": {
+    "x": 6.419107856185014,
+    "y": 27.875,
+    "z": -17.266832497829963,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

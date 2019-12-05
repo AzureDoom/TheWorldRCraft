@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "homes": {},
+  "mail": [],
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "lastKnownName": "Fenix711",
+  "lastLogin": 1569209038042,
+  "lastLogout": 1569209626594,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1569197139741,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "warnings": [],
+  "isFrozen": false,
+  "notes": [],
+  "lastLocation": {
+    "x": 9.041976358008661,
+    "y": 27.8125,
+    "z": 30.425062698447213,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

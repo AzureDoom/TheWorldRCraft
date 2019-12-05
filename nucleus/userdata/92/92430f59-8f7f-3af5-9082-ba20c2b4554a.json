@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "ignoreList": [],
+  "warnings": [],
+  "mail": [],
+  "fly": false,
+  "lastKnownName": "TyZio00",
+  "lastLocation": {
+    "x": -5.790534711945492,
+    "y": 72.0,
+    "z": 140.61064359383755,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "18c68e60-4887-4363-b1fe-4964dd020a89"
+  },
+  "lastLogin": 1573395674425,
+  "lastLogout": 1573397364803,
+  "lastIP": "/31.187.107.18",
+  "firstJoin": 1573394679123,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "notes": [],
+  "homes": {}
+}

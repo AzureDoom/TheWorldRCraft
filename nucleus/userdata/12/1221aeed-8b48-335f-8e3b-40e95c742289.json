@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "warnings": [],
+  "mail": [],
+  "homes": {},
+  "notes": [],
+  "invulnerable": false,
+  "fly": false,
+  "isFrozen": false,
+  "lastKnownName": "nakufox",
+  "lastLogin": 1566853036497,
+  "lastLogout": 1566853613108,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1566853036497,
+  "startedFirstJoin": false,
+  "lastLocation": {
+    "x": 6.750171225527696,
+    "y": 26.0,
+    "z": 81.35003609960734,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "warnings": [],
+  "homes": {},
+  "jailOnNextLogin": false,
+  "fly": false,
+  "lastKnownName": "pnosaj",
+  "lastLogin": 1572900726584,
+  "lastLogout": 1572900822673,
+  "lastIP": "/70.24.209.215",
+  "firstJoin": 1572899265072,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "vanish": false,
+  "mail": [],
+  "notes": [],
+  "lastLocation": {
+    "x": 9.01287562885876,
+    "y": 28.0,
+    "z": -24.315453187173137,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

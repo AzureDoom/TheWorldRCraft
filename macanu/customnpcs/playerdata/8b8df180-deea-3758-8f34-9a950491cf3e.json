@@ -1,0 +1,332 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 11b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:dualswords1",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 1,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 20
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Sword",
+                                            "percents": {
+                                                "0": 48,
+                                                "1": 6,
+                                                "size": 2
+                                            }
+                                        },
+                                        "Rarity": 0,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Sword",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifeOnHitFlat",
+                                                    "type": 0,
+                                                    "percent": 56
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": 0.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 0
+                                },
+                                "Damage": 154s
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:heavyaxeman61",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 3,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "suffix": {
+                                            "baseAffix": "Of Critical Hits",
+                                            "percents": {
+                                                "0": 55,
+                                                "size": 1
+                                            }
+                                        },
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 24
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Axe",
+                                            "percents": {
+                                                "0": 59,
+                                                "1": 37,
+                                                "size": 2
+                                            }
+                                        },
+                                        "Rarity": 0,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "gearTypeName": "Axe",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifeOnHitFlat",
+                                                    "type": 0,
+                                                    "percent": 49
+                                                },
+                                                "1": {
+                                                    "baseModName": "LifestealFlat",
+                                                    "type": 0,
+                                                    "percent": 43
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 0
+                                },
+                                "Damage": 69s
+                            }
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 0b
+                }
+            ],
+            "DataBankId": 0,
+            "UnlockedSlots": 2
+        }
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Sefiraat",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 34261703L
+            },
+            {
+                "Quest": 5,
+                "Date": 680326310L
+            }
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 2
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 6
+            }
+        ]
+    },
+    "UUID": "8b8df180-deea-3758-8f34-9a950491cf3e",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 25
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 28
+        }
+    ]
+}

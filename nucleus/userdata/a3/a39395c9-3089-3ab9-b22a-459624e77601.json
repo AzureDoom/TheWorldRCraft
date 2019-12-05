@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "warnings": [],
+  "homes": {},
+  "jailOnNextLogin": false,
+  "fly": false,
+  "lastKnownName": "undefined",
+  "lastLocation": {
+    "x": 8.303346353926466,
+    "y": 27.875,
+    "z": -19.120962437107863,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "lastLogin": 1573315124184,
+  "lastLogout": 1573315197337,
+  "lastIP": "/71.60.144.111",
+  "firstJoin": 1573315124184,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "vanish": false,
+  "mail": [],
+  "notes": []
+}

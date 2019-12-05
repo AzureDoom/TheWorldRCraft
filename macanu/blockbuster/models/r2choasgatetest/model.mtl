@@ -1,0 +1,50 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl TEX_xcg
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_xcg\default.png
+map_Ka skins\TEX_xcg\default.png
+
+newmtl TEX_xcgclat
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_xcgclat\default.png
+map_Ka skins\TEX_xcgclat\default.png
+
+newmtl TEX_xcgdodai
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_xcgdodai\default.png
+map_Ka skins\TEX_xcgdodai\default.png
+
+newmtl TEX_xcgsoko
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_xcgsoko\default.png
+map_Ka skins\TEX_xcgsoko\default.png

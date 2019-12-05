@@ -1,0 +1,1 @@
+#CMDOP "world gamerule set " + $worldname + " doMobSpawning false" 

@@ -1,0 +1,443 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        }
+    ],
+    "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:ring/ring2",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "runes": {
+                                            "runes": {
+                                                "size": 0
+                                            },
+                                            "level": 1,
+                                            "runewords": {
+                                                "size": 0
+                                            },
+                                            "capacity": 2
+                                        },
+                                        "uniqueStats-": 1b,
+                                        "level": 1,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "SpellThunderDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 29
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 2,
+                                        "secondaryStats-": 1b,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Ring",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 2
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:necklace/necklace0",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 1,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "HealthRegenFlat",
+                                                    "type": 0,
+                                                    "percent": 44
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 0,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Necklace",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "FireResistFlat",
+                                                    "type": 0,
+                                                    "percent": 55
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 0
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 2b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:snowball",
+                                "Count": 3b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 3b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:feather",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 4b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:spider_eye",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 5b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:iron_ingot",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 6b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:bone",
+                                "Count": 12b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 7b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:arrow",
+                                "Count": 5b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:string",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 9b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:rotten_flesh",
+                                "Count": 24b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 10b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:blaze_powder",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 11b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:spell_self_regen",
+                                "Count": 1b,
+                                "tag": {
+                                    "SPELL_ITEM_DATA": {
+                                        "spellGUID": "spell_self_regen",
+                                        "level": 1,
+                                        "baseEffectPercent": 65,
+                                        "manaCostPercent": 58,
+                                        "scalingEffectPercent": 66,
+                                        "rarity": 2
+                                    },
+                                    "rarity": 2
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:wizard_leggings_sorcery",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 30,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "HealthFlat",
+                                                    "type": 0,
+                                                    "percent": 32
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 0,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "sockets": {
+                                            "sockets": {
+                                                "size": 0
+                                            }
+                                        },
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Pants",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "ArmorFlat",
+                                                    "type": 0,
+                                                    "percent": 8
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 0
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 13b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "lycanitesmobs:geistliver",
+                                "Count": 2b,
+                                "Damage": 0s
+                            }
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 0b
+                }
+            ],
+            "DataBankId": 0,
+            "UnlockedSlots": 1
+        }
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "gassou18",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 71462350L
+            },
+            {
+                "Quest": 2,
+                "Date": 718523641L
+            },
+            {
+                "Quest": 5,
+                "Date": 718588253L
+            }
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 6
+            }
+        ]
+    },
+    "UUID": "8eaceee6-5bbc-3bc4-b49b-ef1ee74c2a68",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 25
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 28
+        }
+    ]
+}

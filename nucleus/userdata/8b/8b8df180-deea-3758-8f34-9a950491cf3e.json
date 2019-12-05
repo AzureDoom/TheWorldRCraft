@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "warnings": [],
+  "notes": [],
+  "lastKnownName": "Sefiraat",
+  "lastLogin": 1570898243113,
+  "lastLogout": 1570903257652,
+  "lastIP": "/88.105.30.77",
+  "firstJoin": 1570813039270,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "homes": {},
+  "lastLocation": {
+    "x": 7.9874122427386975,
+    "y": 27.875,
+    "z": -15.266788847622276,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

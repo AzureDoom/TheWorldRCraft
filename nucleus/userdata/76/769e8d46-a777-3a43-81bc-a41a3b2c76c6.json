@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "mail": [],
+  "fly": false,
+  "homes": {},
+  "notes": [],
+  "warnings": [],
+  "invulnerable": false,
+  "lastKnownName": "_Night_Shad0w_",
+  "lastLocation": {
+    "x": 8.5,
+    "y": 28.0,
+    "z": -22.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "lastLogin": 1572722473971,
+  "lastLogout": 1572722538252,
+  "lastIP": "/74.57.252.208",
+  "firstJoin": 1572722473971,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "ignoreList": [],
+  "isFrozen": false,
+  "jailOnNextLogin": false
+}

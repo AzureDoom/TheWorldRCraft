@@ -1,0 +1,44 @@
+{
+  "mystcraft:symbol": {
+    "criteria": {
+      "myst_symbol_page_in_inventory": "2019-08-06 18:56:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-08-06 18:58:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-08-06 18:58:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-08-06 18:58:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-08-06 18:58:18 -0500"
+    },
+    "done": true
+  },
+  "mystcraft:root": {
+    "criteria": {
+      "mystcraft_present": "2019-08-06 04:47:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-08-06 18:58:18 -0500"
+    },
+    "done": true
+  }
+}

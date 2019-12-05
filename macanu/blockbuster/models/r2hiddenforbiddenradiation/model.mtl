@@ -1,0 +1,410 @@
+# Blender MTL File: 'None'
+# Material Count: 34
+
+newmtl TEX_bac1_clo01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_bac1_clo01\default.png
+map_Ka skins\\TEX_bac1_clo01\\default.png
+
+newmtl TEX_bac1_sky01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_bac1_sky01\default.png
+map_Ka skins\\TEX_bac1_sky01\\default.png
+
+newmtl TEX_bac2_for01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_bac2_for01\default.png
+map_Ka skins\\TEX_bac2_for01\\default.png
+
+newmtl TEX_flo1_gro01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_flo1_gro01\default.png
+map_Ka skins\\TEX_flo1_gro01\\default.png
+
+newmtl TEX_triedgea
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_triedgea\default.png
+map_Ka skins\\TEX_triedgea\\default.png
+
+newmtl TEX_triedgea01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_triedgea01\default.png
+map_Ka skins\\TEX_triedgea01\\default.png
+
+newmtl TEX_triedgeb
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_triedgeb\default.png
+map_Ka skins\\TEX_triedgeb\\default.png
+
+newmtl TEX_triedgeb01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_triedgeb01\default.png
+map_Ka skins\\TEX_triedgeb01\\default.png
+
+newmtl TEX_wal1_01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_01\default.png
+map_Ka skins\\TEX_wal1_01\\default.png
+
+newmtl TEX_wal1_03
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_03\default.png
+map_Ka skins\\TEX_wal1_03\\default.png
+
+newmtl TEX_wal1_04
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_04\default.png
+map_Ka skins\\TEX_wal1_04\\default.png
+
+newmtl TEX_wal1_05
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_05\default.png
+map_Ka skins\\TEX_wal1_05\\default.png
+
+newmtl TEX_wal1_06
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_06\default.png
+map_Ka skins\\TEX_wal1_06\\default.png
+
+newmtl TEX_wal1_07
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_07\default.png
+map_Ka skins\\TEX_wal1_07\\default.png
+
+newmtl TEX_wal1_bac
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_bac\default.png
+map_Ka skins\\TEX_wal1_bac\\default.png
+
+newmtl TEX_wal1_con
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_con\default.png
+map_Ka skins\\TEX_wal1_con\\default.png
+
+newmtl TEX_wal1_gro01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_gro01\default.png
+map_Ka skins\\TEX_wal1_gro01\\default.png
+
+newmtl TEX_wal1_scu00
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_scu00\default.png
+map_Ka skins\\TEX_wal1_scu00\\default.png
+
+newmtl TEX_wal1_scu01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_scu01\default.png
+map_Ka skins\\TEX_wal1_scu01\\default.png
+
+newmtl TEX_wal1_scu02
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_scu02\default.png
+map_Ka skins\\TEX_wal1_scu02\\default.png
+
+newmtl TEX_wal1_scu04
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_scu04\default.png
+map_Ka skins\\TEX_wal1_scu04\\default.png
+
+newmtl TEX_wal1_shr01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal1_shr01\default.png
+map_Ka skins\\TEX_wal1_shr01\\default.png
+
+newmtl TEX_wal2_01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_01\default.png
+map_Ka skins\\TEX_wal2_01\\default.png
+
+newmtl TEX_wal2_012
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_012\default.png
+map_Ka skins\\TEX_wal2_012\\default.png
+
+newmtl TEX_wal2_02
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_02\default.png
+map_Ka skins\\TEX_wal2_02\\default.png
+
+newmtl TEX_wal2_03
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_03\default.png
+map_Ka skins\\TEX_wal2_03\\default.png
+
+newmtl TEX_wal2_04
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_04\default.png
+map_Ka skins\\TEX_wal2_04\\default.png
+
+newmtl TEX_wal2_05
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_05\default.png
+map_Ka skins\\TEX_wal2_05\\default.png
+
+newmtl TEX_wal2_06
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_06\default.png
+map_Ka skins\\TEX_wal2_06\\default.png
+
+newmtl TEX_wal2_07
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_07\default.png
+map_Ka skins\\TEX_wal2_07\\default.png
+
+newmtl TEX_wal2_08
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_08\default.png
+map_Ka skins\\TEX_wal2_08\\default.png
+
+newmtl TEX_wal2_09
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_09\default.png
+map_Ka skins\\TEX_wal2_09\\default.png
+
+newmtl TEX_wal2_10
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_10\default.png
+map_Ka skins\\TEX_wal2_10\\default.png
+
+newmtl TEX_wal2_11
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_wal2_11\default.png
+map_Ka skins\\TEX_wal2_11\\default.png

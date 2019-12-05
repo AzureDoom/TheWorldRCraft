@@ -1,0 +1,9 @@
+{
+  "version": "0.9.0:beta:0",
+  "setup": {
+    "data_save_delay_minutes": 2
+  },
+  "main": {
+    "allow_ingame_management": true
+  }
+}

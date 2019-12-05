@@ -1,0 +1,25 @@
+
+[general]
+	#If smooth leaves should be rendered
+	renderSmoothLeaves = false
+	#The mesh generator that generates leaves
+	leavesMeshGenerator = "SurfaceNets"
+	#If diffuse lighting should be applied when rendering. Accentuates differences between heights
+	applyDiffuseLighting = true
+	#If fluids should be rendered with flipped and rotated variants of their textures
+	naturalFluidTextures = false
+	#If smooth terrain should be rendered
+	renderSmoothTerrain = true
+	#If fluids should be rendered with smooth biome blending
+	smoothFluidColors = true
+	#The list of leaves smoothable blocks
+	leavesSmoothable = ["minecraft:leaves", "minecraft:leaves2"]
+	#If short grass should be rendered
+	shortGrass = true
+	#If better textures should be searched for when rendering
+	betterTextures = true
+	#If fluids should be rendered with smooth lighting
+	smoothFluidLighting = true
+	#How leaves should be rendered
+	smoothLeavesType = "TOGETHER"
+

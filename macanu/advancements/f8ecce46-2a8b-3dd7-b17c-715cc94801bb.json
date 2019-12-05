@@ -1,0 +1,14 @@
+{
+  "ebwizardry:armour_set": {
+    "criteria": {
+      "criteria_0": "2019-02-07 21:17:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-02-07 21:17:07 -0600"
+    },
+    "done": true
+  }
+}

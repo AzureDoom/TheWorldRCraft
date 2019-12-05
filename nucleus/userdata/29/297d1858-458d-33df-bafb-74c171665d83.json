@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "lastKnownName": "MistressVampi",
+  "lastLogin": 1572725631102,
+  "lastLogout": 1572732613616,
+  "lastIP": "/75.191.130.246",
+  "firstJoin": 1572719438758,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "isFrozen": false,
+  "mail": [],
+  "jailOnNextLogin": false,
+  "fly": false,
+  "homes": {},
+  "notes": [],
+  "warnings": [],
+  "invulnerable": false,
+  "lastLocation": {
+    "x": 14.764720933324933,
+    "y": 25.0,
+    "z": 82.28028840415591,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "ignoreList": []
+}

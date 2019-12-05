@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "Zamasu_Plays",
+  "lastLogin": 1573409799368,
+  "lastLogout": 1573409884991,
+  "lastIP": "/172.58.101.23",
+  "firstJoin": 1573297438200,
+  "startedFirstJoin": false,
+  "isFrozen": false,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "invulnerable": false,
+  "lastLocation": {
+    "x": 8.5,
+    "y": 28.0,
+    "z": -22.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "warnings": [],
+  "mail": [],
+  "notes": [],
+  "homes": {}
+}

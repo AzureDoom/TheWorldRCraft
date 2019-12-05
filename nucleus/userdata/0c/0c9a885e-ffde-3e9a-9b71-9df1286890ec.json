@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "Lavieth",
+  "lastLogin": 1570147143475,
+  "lastLogout": 1570148634260,
+  "lastIP": "/24.136.74.168",
+  "firstJoin": 1570147143475,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "notes": [],
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "warnings": [],
+  "mail": [],
+  "homes": {},
+  "lastLocation": {
+    "x": 22.233781307439838,
+    "y": 22.1875,
+    "z": 42.16073288611819,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

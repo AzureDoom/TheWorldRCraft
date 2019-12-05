@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "vanish": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "lastKnownName": "Corvus_Reborn",
+  "lastLogin": 1569872540493,
+  "lastLogout": 1569872583933,
+  "lastIP": "/92.237.95.175",
+  "firstJoin": 1569870393277,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "lastLocation": {
+    "x": 8.5,
+    "y": 28.0,
+    "z": -22.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "homes": {},
+  "mail": [],
+  "warnings": [],
+  "notes": []
+}

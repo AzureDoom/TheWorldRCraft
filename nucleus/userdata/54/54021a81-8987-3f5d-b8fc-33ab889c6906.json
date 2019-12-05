@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "warnings": [],
+  "homes": {},
+  "jailOnNextLogin": false,
+  "fly": false,
+  "lastKnownName": "Atumhawk",
+  "lastLogin": 1573245240066,
+  "lastLogout": 1573245710983,
+  "lastIP": "/66.229.77.44",
+  "firstJoin": 1573244329099,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "vanish": false,
+  "mail": [],
+  "notes": [],
+  "lastLocation": {
+    "x": 9.087623133686137,
+    "y": 27.8125,
+    "z": 31.81939754354091,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

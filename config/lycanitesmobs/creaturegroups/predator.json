@@ -1,0 +1,20 @@
+{
+  "name": "predator",
+  "loadDefault": true,
+  "hunt": [
+    "humanoid",
+    "animal",
+    "critter"
+  ],
+  "pack": [
+    "alpha"
+  ],
+  "wary": [
+    "boss"
+  ],
+  "flee": [
+    "alpha"
+  ],
+  "ignore": [],
+  "default": "retaliate"
+}

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "warnings": [],
+  "mail": [],
+  "vanish": false,
+  "homes": {},
+  "lastKnownName": "Kohanto",
+  "lastLogin": 1566652522628,
+  "lastLogout": 1566652860080,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1566652522628,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "fly": false,
+  "notes": [],
+  "isFrozen": false,
+  "lastLocation": {
+    "x": 0.5,
+    "y": 25.0,
+    "z": 81.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

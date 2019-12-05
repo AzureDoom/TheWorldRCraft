@@ -1,0 +1,560 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        },
+        {
+            "Points": 1010,
+            "Faction": 4
+        }
+    ],
+    "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "customnpcs:npcwand",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "customnpcs:npcmobcloner",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 24b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ironbackpacks:backpack",
+                                "Count": 1b,
+                                "tag": {
+                                    "packInfo": {
+                                        "upgrade": [
+                                        ],
+                                        "own": "7448eab5-1140-3ad8-af07-d2ca5e072622",
+                                        "type": "ironbackpacks:basic",
+                                        "spec": "NONE"
+                                    },
+                                    "packInv": [
+                                        {
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "rcraft:twinblade62",
+                                            "Count": 1b,
+                                            "tag": {
+                                                "GEAR_ITEM_DATA": {
+                                                    "timesLeveledUp": 0,
+                                                    "uniqueStats-": 1b,
+                                                    "level": 150,
+                                                    "isUnique": 0b,
+                                                    "isNotFromMyMod": 1b,
+                                                    "primaryStats": {
+                                                        "Mods": {
+                                                            "0": {
+                                                                "baseModName": "DamageFlat",
+                                                                "type": 0,
+                                                                "percent": 54
+                                                            },
+                                                            "size": 1
+                                                        }
+                                                    },
+                                                    "gearTypeStats": {
+                                                        "geartypeGUID": "Sword",
+                                                        "percents": {
+                                                            "0": 10,
+                                                            "1": 15,
+                                                            "size": 2
+                                                        }
+                                                    },
+                                                    "Rarity": 0,
+                                                    "sockets-": 1b,
+                                                    "isSalvagable": 1b,
+                                                    "runes-": 1b,
+                                                    "chaosStats-": 1b,
+                                                    "prefix-": 1b,
+                                                    "suffix-": 1b,
+                                                    "gearTypeName": "Sword",
+                                                    "uniqueGUID-": 1b,
+                                                    "set-": 1b,
+                                                    "secondaryStats": {
+                                                        "AddedStat": 0b,
+                                                        "Mods": {
+                                                            "0": {
+                                                                "baseModName": "CriticalHitFlat",
+                                                                "type": 0,
+                                                                "percent": 24
+                                                            },
+                                                            "1": {
+                                                                "baseModName": "CriticalHitFlat",
+                                                                "type": 0,
+                                                                "percent": 35
+                                                            },
+                                                            "size": 2
+                                                        }
+                                                    },
+                                                    "infusion-": 1b
+                                                },
+                                                "rarity": 0
+                                            },
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "rcraft:twinblade62",
+                                            "Count": 1b,
+                                            "tag": {
+                                                "GEAR_ITEM_DATA": {
+                                                    "timesLeveledUp": 0,
+                                                    "runes": {
+                                                        "runes": {
+                                                            "size": 0
+                                                        },
+                                                        "level": 1,
+                                                        "runewords": {
+                                                            "size": 0
+                                                        },
+                                                        "capacity": 1
+                                                    },
+                                                    "uniqueStats-": 1b,
+                                                    "level": 150,
+                                                    "isUnique": 0b,
+                                                    "isNotFromMyMod": 1b,
+                                                    "primaryStats": {
+                                                        "Mods": {
+                                                            "0": {
+                                                                "baseModName": "DamageFlat",
+                                                                "type": 0,
+                                                                "percent": 39
+                                                            },
+                                                            "size": 1
+                                                        }
+                                                    },
+                                                    "gearTypeStats": {
+                                                        "geartypeGUID": "Sword",
+                                                        "percents": {
+                                                            "0": 5,
+                                                            "1": 30,
+                                                            "size": 2
+                                                        }
+                                                    },
+                                                    "Rarity": 0,
+                                                    "secondaryStats-": 1b,
+                                                    "sockets-": 1b,
+                                                    "isSalvagable": 1b,
+                                                    "chaosStats-": 1b,
+                                                    "prefix-": 1b,
+                                                    "suffix-": 1b,
+                                                    "gearTypeName": "Sword",
+                                                    "uniqueGUID-": 1b,
+                                                    "set-": 1b,
+                                                    "infusion-": 1b
+                                                },
+                                                "rarity": 0
+                                            },
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:wheat_seeds",
+                                            "Count": 64b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "minecraft:air",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        },
+                                        {
+                                            "ForgeCaps": {
+                                                "customnpcs:itemscripteddata": {
+                                                }
+                                            },
+                                            "id": "customnpcs:npcwand",
+                                            "Count": 1b,
+                                            "Damage": 0s
+                                        }
+                                    ]
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 26b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:ring/ring4",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "runes": {
+                                            "runes": {
+                                                "size": 0
+                                            },
+                                            "level": 1,
+                                            "runewords": {
+                                                "size": 0
+                                            },
+                                            "capacity": 4
+                                        },
+                                        "uniqueStats-": 1b,
+                                        "level": 4,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "SpellNatureDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 85
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 4,
+                                        "secondaryStats-": 1b,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Ring",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 4
+                                },
+                                "Damage": 0s
+                            }
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 0b
+                }
+            ],
+            "DataBankId": 0,
+            "UnlockedSlots": 2
+        }
+    ],
+    "ItemGiversList": [
+        {
+            "Long": 15025L,
+            "Slot": 2
+        }
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "AzureZhen",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 9,
+                "Date": 580946804L
+            }
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 1b,
+                "ExtraData": {
+                    "Killed": [
+                        {
+                            "Value": 3,
+                            "Slot": "Chim Chim"
+                        }
+                    ]
+                },
+                "Quest": 2
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 5
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 6
+            }
+        ]
+    },
+    "UUID": "7448eab5-1140-3ad8-af07-d2ca5e072622",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 32
+        },
+        {
+            "Dialog": 33
+        },
+        {
+            "Dialog": 3
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 36
+        },
+        {
+            "Dialog": 37
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 15
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 17
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 26
+        },
+        {
+            "Dialog": 27
+        },
+        {
+            "Dialog": 28
+        },
+        {
+            "Dialog": 29
+        },
+        {
+            "Dialog": 31
+        }
+    ]
+}

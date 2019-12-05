@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "Scepkight",
+  "lastLogin": 1572738573582,
+  "lastLogout": 1572740328714,
+  "lastIP": "/208.94.76.33",
+  "firstJoin": 1572738573582,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "isFrozen": false,
+  "mail": [],
+  "jailOnNextLogin": false,
+  "fly": false,
+  "homes": {},
+  "notes": [],
+  "warnings": [],
+  "invulnerable": false,
+  "lastLocation": {
+    "x": 7.720388412974578,
+    "y": 27.8125,
+    "z": 29.9912446072496,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

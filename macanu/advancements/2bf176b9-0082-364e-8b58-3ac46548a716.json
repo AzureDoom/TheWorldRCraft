@@ -1,0 +1,32 @@
+{
+  "mystcraft:symbol": {
+    "criteria": {
+      "myst_symbol_page_in_inventory": "2019-08-06 15:36:40 -0500"
+    },
+    "done": true
+  },
+  "ebwizardry:armour_set": {
+    "criteria": {
+      "criteria_0": "2019-08-06 15:39:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-08-06 15:38:47 -0500"
+    },
+    "done": true
+  },
+  "ebwizardry:element_master": {
+    "criteria": {
+      "criteria_0": "2019-08-06 15:38:47 -0500"
+    },
+    "done": true
+  },
+  "mystcraft:root": {
+    "criteria": {
+      "mystcraft_present": "2019-08-06 15:31:51 -0500"
+    },
+    "done": true
+  }
+}

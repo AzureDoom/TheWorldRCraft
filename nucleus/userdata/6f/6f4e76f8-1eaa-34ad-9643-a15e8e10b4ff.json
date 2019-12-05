@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "warnings": [],
+  "homes": {},
+  "ignoreList": [],
+  "lastKnownName": "Katzelad",
+  "lastLogin": 1573327103970,
+  "lastLogout": 1573327567980,
+  "lastIP": "/73.172.198.167",
+  "firstJoin": 1573318648618,
+  "startedFirstJoin": false,
+  "isFrozen": false,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "invulnerable": false,
+  "mail": [],
+  "notes": [],
+  "powertools": {},
+  "lastLocation": {
+    "x": 7.953475096894742,
+    "y": 77.0,
+    "z": 63.63214155251767,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "69eadc7e-dfa5-4dde-8fc4-960e7b3d9daf"
+  }
+}

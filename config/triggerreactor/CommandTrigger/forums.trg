@@ -1,0 +1,1 @@
+#CMDCON "tell " + $playername + " http://forums.cyberconnects2.com/index.php" 

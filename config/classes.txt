@@ -1,0 +1,5 @@
+Installed mods = 
+Below is an example config
+<class> Example Class
+minecraft
+</class>

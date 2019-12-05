@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "notes": [],
+  "mail": [],
+  "warnings": [],
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "isFrozen": false,
+  "vanish": false,
+  "lastKnownName": "GhostRiderrr",
+  "lastLogin": 1575014485276,
+  "lastLogout": 1575015518800,
+  "lastIP": "/71.57.251.6",
+  "firstJoin": 1575014485276,
+  "startedFirstJoin": false,
+  "homes": {},
+  "lastLocation": {
+    "x": -20.914893216881502,
+    "y": 22.1875,
+    "z": 86.76045690782146,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

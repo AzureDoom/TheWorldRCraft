@@ -1,0 +1,3201 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        }
+    ],
+    "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 14b,
+                                "Damage": 5s
+                            },
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 9b,
+                                "Damage": 182s
+                            },
+                            {
+                                "Slot": 2b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 3b,
+                                "Damage": 9s
+                            },
+                            {
+                                "Slot": 3b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 5b,
+                                "Damage": 169s
+                            },
+                            {
+                                "Slot": 4b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 8b,
+                                "Damage": 3s
+                            },
+                            {
+                                "Slot": 5b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 7b,
+                                "Damage": 12s
+                            },
+                            {
+                                "Slot": 6b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 11b,
+                                "Damage": 2s
+                            },
+                            {
+                                "Slot": 7b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 5b,
+                                "Damage": 113s
+                            },
+                            {
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 14b,
+                                "Damage": 10s
+                            },
+                            {
+                                "Slot": 9b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 16b,
+                                "Damage": 1s
+                            },
+                            {
+                                "Slot": 10b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 11b,
+                                "Damage": 112s
+                            },
+                            {
+                                "Slot": 11b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 4b,
+                                "Damage": 162s
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 7b,
+                                "Damage": 176s
+                            },
+                            {
+                                "Slot": 13b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 14b,
+                                "Damage": 111s
+                            },
+                            {
+                                "Slot": 14b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 4b,
+                                "Damage": 8s
+                            },
+                            {
+                                "Slot": 15b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 9b,
+                                "Damage": 4s
+                            },
+                            {
+                                "Slot": 16b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 11b,
+                                "Damage": 7s
+                            },
+                            {
+                                "Slot": 17b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 6b,
+                                "Damage": 11s
+                            },
+                            {
+                                "Slot": 18b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 15b,
+                                "Damage": 6s
+                            },
+                            {
+                                "Slot": 19b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 173s
+                            }
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 116s
+                            },
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 157s
+                            },
+                            {
+                                "Slot": 2b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 119s
+                            },
+                            {
+                                "Slot": 3b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 118s
+                            },
+                            {
+                                "Slot": 4b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 174s
+                            },
+                            {
+                                "Slot": 5b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 159s
+                            },
+                            {
+                                "Slot": 6b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 4b,
+                                "Damage": 16s
+                            },
+                            {
+                                "Slot": 7b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 13s
+                            },
+                            {
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 4b,
+                                "Damage": 17s
+                            },
+                            {
+                                "Slot": 9b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 5b,
+                                "Damage": 15s
+                            },
+                            {
+                                "Slot": 10b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 14s
+                            },
+                            {
+                                "Slot": 11b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 43s
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 18s
+                            },
+                            {
+                                "Slot": 13b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 22s
+                            },
+                            {
+                                "Slot": 14b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 160s
+                            },
+                            {
+                                "Slot": 15b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 47s
+                            },
+                            {
+                                "Slot": 16b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 25s
+                            },
+                            {
+                                "Slot": 17b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 20s
+                            },
+                            {
+                                "Slot": 18b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 21s
+                            },
+                            {
+                                "Slot": 19b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 158s
+                            },
+                            {
+                                "Slot": 20b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 115s
+                            },
+                            {
+                                "Slot": 21b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 3b,
+                                "Damage": 28s
+                            },
+                            {
+                                "Slot": 22b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 23s
+                            },
+                            {
+                                "Slot": 23b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 3b,
+                                "Damage": 26s
+                            },
+                            {
+                                "Slot": 24b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 5b,
+                                "Damage": 123s
+                            },
+                            {
+                                "Slot": 25b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 114s
+                            },
+                            {
+                                "Slot": 26b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 120s
+                            },
+                            {
+                                "Slot": 27b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 32s
+                            },
+                            {
+                                "Slot": 28b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 36s
+                            },
+                            {
+                                "Slot": 29b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 45s
+                            },
+                            {
+                                "Slot": 30b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 117s
+                            },
+                            {
+                                "Slot": 31b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 4b,
+                                "Damage": 24s
+                            },
+                            {
+                                "Slot": 32b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 3b,
+                                "Damage": 29s
+                            },
+                            {
+                                "Slot": 33b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 148s
+                            },
+                            {
+                                "Slot": 34b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 31s
+                            }
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 161s
+                            },
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 3b,
+                                "Damage": 54s
+                            },
+                            {
+                                "Slot": 2b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 60s
+                            },
+                            {
+                                "Slot": 3b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 183s
+                            },
+                            {
+                                "Slot": 4b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 184s
+                            },
+                            {
+                                "Slot": 5b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 52s
+                            },
+                            {
+                                "Slot": 6b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 125s
+                            },
+                            {
+                                "Slot": 7b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 88s
+                            },
+                            {
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 74s
+                            },
+                            {
+                                "Slot": 9b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 124s
+                            },
+                            {
+                                "Slot": 10b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 172s
+                            },
+                            {
+                                "Slot": 11b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 87s
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 61s
+                            },
+                            {
+                                "Slot": 13b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 129s
+                            },
+                            {
+                                "Slot": 14b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 2b,
+                                "Damage": 163s
+                            },
+                            {
+                                "Slot": 15b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 3b,
+                                "Damage": 78s
+                            },
+                            {
+                                "Slot": 16b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 48s
+                            },
+                            {
+                                "Slot": 17b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 75s
+                            },
+                            {
+                                "Slot": 18b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 90s
+                            },
+                            {
+                                "Slot": 19b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 170s
+                            },
+                            {
+                                "Slot": 20b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 72s
+                            }
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 45b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:charm_storm",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 77,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "ThunderPeneFlat",
+                                                    "type": 0,
+                                                    "percent": 37
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 0,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Charm",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "ArmorFlat",
+                                                    "type": 0,
+                                                    "percent": 15
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 0
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 46b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:charm_minion_health",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 77,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "Armor Penetration",
+                                                    "type": 0,
+                                                    "percent": 54
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Charm",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "ArmorFlat",
+                                                    "type": 0,
+                                                    "percent": 52
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 47b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:ring/ring5",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "runes": {
+                                            "runes": {
+                                                "size": 0
+                                            },
+                                            "level": 1,
+                                            "runewords": {
+                                                "size": 0
+                                            },
+                                            "capacity": 5
+                                        },
+                                        "uniqueStats-": 1b,
+                                        "level": 76,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "SpellWaterDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 56
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 5,
+                                        "secondaryStats-": 1b,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Ring",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 5
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 48b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:master_wand",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 45,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 63
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 52,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 1b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "CriticalHitFlat",
+                                                    "type": 0,
+                                                    "percent": 11
+                                                },
+                                                "1": {
+                                                    "baseModName": "CriticalHitFlat",
+                                                    "type": 0,
+                                                    "percent": 60
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "cooldown": [I;0,0,0,0,0],
+                                    "maxCooldown": [I;85,0,12,0,0],
+                                    "selectedSpell": 2,
+                                    "spells": [I;54,47,5,157,160],
+                                    "upgrades": {
+                                        "cooldown": 1,
+                                        "condenser": 3,
+                                        "blast": 1
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 49b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:ring_soulbinding",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 79,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "SpellFireDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 22
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 0,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Ring",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "EnergyRegenFlat",
+                                                    "type": 0,
+                                                    "percent": 39
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 0
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 50b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:ring_conjurer",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 82,
+                                        "gearTypeStats-": 1b,
+                                        "prefix": {
+                                            "baseAffix": "Tough",
+                                            "percents": {
+                                                "0": 70,
+                                                "size": 1
+                                            }
+                                        },
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "suffix": {
+                                            "baseAffix": "Of Mana Regen",
+                                            "percents": {
+                                                "0": 34,
+                                                "size": 1
+                                            }
+                                        },
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "SpellFireDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 60
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 3,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "gearTypeName": "Ring",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "ManaFlat",
+                                                    "type": 0,
+                                                    "percent": 68
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 3
+                                },
+                                "Damage": 0s
+                            }
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:small_gear_lootbox_0",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_gear_lootbox_0",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 5b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:big_spell_lootbox_0",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 6b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:ring_arcane_frost",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 74,
+                                        "gearTypeStats-": 1b,
+                                        "prefix": {
+                                            "baseAffix": "Energetic",
+                                            "percents": {
+                                                "0": 73,
+                                                "size": 1
+                                            }
+                                        },
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "suffix": {
+                                            "baseAffix": "Of Vitality",
+                                            "percents": {
+                                                "0": 40,
+                                                "size": 1
+                                            }
+                                        },
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "SpellThunderDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 72
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 3,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "gearTypeName": "Ring",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "ManaFlat",
+                                                    "type": 0,
+                                                    "percent": 42
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 3
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 7b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:charm_storm",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 74,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "NaturePeneFlat",
+                                                    "type": 0,
+                                                    "percent": 32
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Charm",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "ArmorFlat",
+                                                    "type": 0,
+                                                    "percent": 62
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:ring_shattering",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "runes": {
+                                            "runes": {
+                                                "size": 0
+                                            },
+                                            "level": 1,
+                                            "runewords": {
+                                                "size": 0
+                                            },
+                                            "capacity": 1
+                                        },
+                                        "uniqueStats-": 1b,
+                                        "level": 74,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "SpellThunderDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 28
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 0,
+                                        "secondaryStats-": 1b,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Ring",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 0
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 10b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_gear_lootbox_1",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 13b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_spell_lootbox_1",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 14b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:big_spell_lootbox_1",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 15b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:wavemaster37",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "runes": {
+                                            "runes": {
+                                                "0": {
+                                                    "usedForRuneWord": "Profound Sea",
+                                                    "level": 74,
+                                                    "Mods": {
+                                                        "0": {
+                                                            "baseModName": "DamagePercent",
+                                                            "type": 1,
+                                                            "percent": 27
+                                                        },
+                                                        "size": 1
+                                                    },
+                                                    "rune": "DOS",
+                                                    "rarity": 4
+                                                },
+                                                "1": {
+                                                    "usedForRuneWord": "Profound Sea",
+                                                    "level": 74,
+                                                    "Mods": {
+                                                        "0": {
+                                                            "baseModName": "LifeOnHitFlat",
+                                                            "type": 0,
+                                                            "percent": 89
+                                                        },
+                                                        "size": 1
+                                                    },
+                                                    "rune": "ANO",
+                                                    "rarity": 4
+                                                },
+                                                "2": {
+                                                    "usedForRuneWord": "Profound Sea",
+                                                    "level": 69,
+                                                    "Mods": {
+                                                        "0": {
+                                                            "baseModName": "ManaOnHitFlat",
+                                                            "type": 0,
+                                                            "percent": 84
+                                                        },
+                                                        "size": 1
+                                                    },
+                                                    "rune": "RAH",
+                                                    "rarity": 4
+                                                },
+                                                "3": {
+                                                    "usedForRuneWord": "Profound Sea",
+                                                    "level": 74,
+                                                    "Mods": {
+                                                        "0": {
+                                                            "baseModName": "CriticalHitFlat",
+                                                            "type": 0,
+                                                            "percent": 71
+                                                        },
+                                                        "size": 1
+                                                    },
+                                                    "rune": "CEN",
+                                                    "rarity": 4
+                                                },
+                                                "size": 4
+                                            },
+                                            "level": 1,
+                                            "runewords": {
+                                                "0": {
+                                                    "level": 72,
+                                                    "Mods": {
+                                                        "0": {
+                                                            "baseModName": "ManaRegenBuffFlat",
+                                                            "type": 0,
+                                                            "percent": 67
+                                                        },
+                                                        "1": {
+                                                            "baseModName": "ManaRegenFlat",
+                                                            "type": 0,
+                                                            "percent": 67
+                                                        },
+                                                        "2": {
+                                                            "baseModName": "ManaFlat",
+                                                            "type": 0,
+                                                            "percent": 67
+                                                        },
+                                                        "size": 3
+                                                    },
+                                                    "name": "Profound Sea",
+                                                    "rarity": 4
+                                                },
+                                                "size": 1
+                                            },
+                                            "capacity": 4
+                                        },
+                                        "uniqueStats-": 1b,
+                                        "level": 74,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 71
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 37,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 4,
+                                        "secondaryStats-": 1b,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 4
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 16b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:master_healing_wand",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 48,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 64
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 49,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "CriticalDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 47
+                                                },
+                                                "1": {
+                                                    "baseModName": "LifeOnHitFlat",
+                                                    "type": 0,
+                                                    "percent": 52
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "cooldown": [I;0,0,0,0,0],
+                                    "maxCooldown": [I;0,100,15,50,0],
+                                    "selectedSpell": 1,
+                                    "spells": [I;23,54,47,123,160],
+                                    "upgrades": {
+                                        "siphon": 2,
+                                        "condenser": 3
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 17b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:wavemaster51",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 62,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 59
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 59,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "CriticalHitFlat",
+                                                    "type": 0,
+                                                    "percent": 26
+                                                },
+                                                "1": {
+                                                    "baseModName": "LifeOnHitFlat",
+                                                    "type": 0,
+                                                    "percent": 54
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 18b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:small_gear_lootbox_2",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 19b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_gear_lootbox_2",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 21b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:small_spell_lootbox_2",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 22b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_spell_lootbox_2",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 24b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:harvestcleric9",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 51,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 31
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 50,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifestealFlat",
+                                                    "type": 0,
+                                                    "percent": 11
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 25b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:flickreaper7",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 74,
+                                        "gearTypeStats-": 1b,
+                                        "prefix": {
+                                            "baseAffix": "Hard Hitting",
+                                            "percents": {
+                                                "0": 52,
+                                                "size": 1
+                                            }
+                                        },
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 14
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 0,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Hammer",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifestealFlat",
+                                                    "type": 0,
+                                                    "percent": 27
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 0
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 26b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:harvestcleric6",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 69,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 61
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 44,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "CriticalHitFlat",
+                                                    "type": 0,
+                                                    "percent": 61
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 28b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_gear_lootbox_3",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 31b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_spell_lootbox_3",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 32b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:big_spell_lootbox_3",
+                                "Count": 3b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 33b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:harvestcleric6",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "chaosStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "ZephyrFlat",
+                                                    "type": 0,
+                                                    "percent": 46
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 62,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 54
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 15,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 1b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifestealFlat",
+                                                    "type": 0,
+                                                    "percent": 5
+                                                },
+                                                "1": {
+                                                    "baseModName": "CriticalHitFlat",
+                                                    "type": 0,
+                                                    "percent": 57
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "cooldown": [I;0,0,0,0,0],
+                                    "maxCooldown": [I;15,20,80,0,100],
+                                    "selectedSpell": 0,
+                                    "spells": [I;5,43,174,160,54],
+                                    "upgrades": {
+                                        "condenser": 3
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 34b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:redwand1",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 74,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 47
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 16,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifeOnHitFlat",
+                                                    "type": 0,
+                                                    "percent": 26
+                                                },
+                                                "1": {
+                                                    "baseModName": "LifestealFlat",
+                                                    "type": 0,
+                                                    "percent": 11
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 35b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:master_lightning_wand",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "chaosStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "EnergyRegenBuffFlat",
+                                                    "type": 0,
+                                                    "percent": 60
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 74,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 28
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 61,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "infusion": {
+                                            "currentLevel": 2,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamagePercent",
+                                                    "type": 1,
+                                                    "percent": 0
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "CriticalDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 47
+                                                },
+                                                "1": {
+                                                    "baseModName": "CriticalHitFlat",
+                                                    "type": 0,
+                                                    "percent": 47
+                                                },
+                                                "size": 2
+                                            }
+                                        }
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 37b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_gear_lootbox_4",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 38b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:big_gear_lootbox_4",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 39b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:small_spell_lootbox_4",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 40b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_spell_lootbox_4",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 42b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:master_fire_wand",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 75,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 22
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 26,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifestealFlat",
+                                                    "type": 0,
+                                                    "percent": 58
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 43b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:wavemaster31",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 75,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 49
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 52,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "CriticalDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 15
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 44b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:harvestcleric8",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 78,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "suffix": {
+                                            "baseAffix": "Of Critical Damage",
+                                            "percents": {
+                                                "0": 25,
+                                                "size": 1
+                                            }
+                                        },
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 55
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 44,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 3,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifestealFlat",
+                                                    "type": 0,
+                                                    "percent": 39
+                                                },
+                                                "1": {
+                                                    "baseModName": "LifeOnHitFlat",
+                                                    "type": 0,
+                                                    "percent": 63
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 3
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 45b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:small_gear_lootbox_5",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 46b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:medium_gear_lootbox_5",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 48b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:small_spell_lootbox_5",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 50b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:big_spell_lootbox_5",
+                                "Count": 1b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 51b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:master_fire_wand",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 74,
+                                        "prefix": {
+                                            "baseAffix": "Life Stealing",
+                                            "percents": {
+                                                "0": 60,
+                                                "size": 1
+                                            }
+                                        },
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 17
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 49,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "CriticalDamageFlat",
+                                                    "type": 0,
+                                                    "percent": 5
+                                                },
+                                                "1": {
+                                                    "baseModName": "CriticalHitFlat",
+                                                    "type": 0,
+                                                    "percent": 53
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 52b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "rcraft:harvestcleric10",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 61,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 16
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 45,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "CriticalHitFlat",
+                                                    "type": 0,
+                                                    "percent": 32
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "AttributeModifiers": [
+                                        {
+                                            "UUIDMost": -3801225194067177672L,
+                                            "UUIDLeast": -6586624321849018929L,
+                                            "Amount": 0.5d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackDamage",
+                                            "Operation": 0,
+                                            "Name": "attackDamage"
+                                        },
+                                        {
+                                            "UUIDMost": -422425648963762075L,
+                                            "UUIDLeast": -5756800103171642205L,
+                                            "Amount": -3.0d,
+                                            "Slot": "mainhand",
+                                            "AttributeName": "generic.attackSpeed",
+                                            "Operation": 0,
+                                            "Name": "attackSpeed"
+                                        }
+                                    ],
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 53b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:master_earth_wand",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 59,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 31
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Staff",
+                                            "percents": {
+                                                "0": 58,
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Staff",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifestealFlat",
+                                                    "type": 0,
+                                                    "percent": 9
+                                                },
+                                                "1": {
+                                                    "baseModName": "LifeOnHitFlat",
+                                                    "type": 0,
+                                                    "percent": 60
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            }
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 0b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:coal",
+                                "Count": 8b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:prismarine_shard",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 2b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:string",
+                                "Count": 64b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 3b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:obsidian",
+                                "Count": 28b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 4b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:sandstone",
+                                "Count": 13b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 5b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:stone",
+                                "Count": 13b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 6b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:stick",
+                                "Count": 39b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 7b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:magic_crystal",
+                                "Count": 56b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:chorus_fruit",
+                                "Count": 14b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 9b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:snowball",
+                                "Count": 57b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 10b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:string",
+                                "Count": 64b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 11b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:glowstone_dust",
+                                "Count": 26b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:yellow_flower",
+                                "Count": 4b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 13b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:iron_ingot",
+                                "Count": 36b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 14b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:string",
+                                "Count": 64b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 15b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:iron_ore",
+                                "Count": 24b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 16b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:leather",
+                                "Count": 64b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 17b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:gold_nugget",
+                                "Count": 30b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 18b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:sand",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 19b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:redstone",
+                                "Count": 9b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 20b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:skull",
+                                "Count": 5b,
+                                "Damage": 1s
+                            },
+                            {
+                                "Slot": 21b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:clay_ball",
+                                "Count": 29b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 22b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:gold_ore",
+                                "Count": 2b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 23b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:bone",
+                                "Count": 64b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 45b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:wool",
+                                "Count": 1b,
+                                "Damage": 2s
+                            },
+                            {
+                                "Slot": 46b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:wool",
+                                "Count": 1b,
+                                "Damage": 5s
+                            },
+                            {
+                                "Slot": 47b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:wool",
+                                "Count": 1b,
+                                "Damage": 14s
+                            },
+                            {
+                                "Slot": 48b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:wool",
+                                "Count": 16b,
+                                "Damage": 0s
+                            }
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 1b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 1b
+                }
+            ],
+            "DataBankId": 0,
+            "UnlockedSlots": 6
+        }
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Pinkalyn",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 676000068L
+            },
+            {
+                "Quest": 5,
+                "Date": 675997704L
+            }
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 1b,
+                "ExtraData": {
+                    "Killed": [
+                        {
+                            "Value": 3,
+                            "Slot": "Chim Chim"
+                        }
+                    ]
+                },
+                "Quest": 2
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 6
+            }
+        ]
+    },
+    "UUID": "bfea43c9-4cb8-3530-8fa6-ed5eaeeb57c7",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 25
+        },
+        {
+            "Dialog": 28
+        }
+    ]
+}

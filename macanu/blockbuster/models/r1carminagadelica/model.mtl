@@ -1,0 +1,326 @@
+# Blender MTL File: 'None'
+# Material Count: 27
+
+newmtl sr3bac1
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3bac1.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3bac1.png
+
+newmtl sr3flo1
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3flo1.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3flo1.png
+
+newmtl sr3flo2
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3flo2.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3flo2.png
+
+newmtl sr3flo3
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3flo3.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3flo3.png
+
+newmtl sr3flo4
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3flo4.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3flo4.png
+
+newmtl sr3flo5
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3flo5.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3flo5.png
+
+newmtl sr3flo6
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3flo6.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3flo6.png
+
+newmtl sr3mou1
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3mou1.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3mou1.png
+
+newmtl sr3mou2
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3mou2.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3mou2.png
+
+newmtl sr3obj1
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3obj1.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3obj1.png
+
+newmtl sr3obj2
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3obj2.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3obj2.png
+
+newmtl sr3obj3
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3obj3.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3obj3.png
+
+newmtl sr3obj4
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3obj4.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3obj4.png
+
+newmtl sr3obj5
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3obj5.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3obj5.png
+
+newmtl sr3obj6
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3obj6.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3obj6.png
+
+newmtl sr3obja
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3obja.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3obja.png
+
+newmtl sr3objb
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3objb.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3objb.png
+
+newmtl sr3objc
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3objc.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3objc.png
+
+newmtl sr3objd
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3objd.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3objd.png
+
+newmtl sr3obje
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3obje.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3obje.png
+
+newmtl sr3objf
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3objf.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3objf.png
+
+newmtl sr3ray1
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3ray1.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3ray1.png
+
+newmtl sr3ray2
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3ray2.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3ray2.png
+
+newmtl sr3ray3
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3ray3.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3ray3.png
+
+newmtl sr3ray4
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3ray4.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3ray4.png
+
+newmtl sr3ray5
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3ray5.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3ray5.png
+
+newmtl sr3wat1
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:\Games\Dot Hack Complete Series\Dot Hack 4 Quarantine\New folder (2)\r1CarminaGadelica\sr3wat1.png
+map_Ka H:\\Games\\Dot Hack Complete Series\\Dot Hack 4 Quarantine\\New folder (2)\\r1CarminaGadelica\\sr3wat1.png

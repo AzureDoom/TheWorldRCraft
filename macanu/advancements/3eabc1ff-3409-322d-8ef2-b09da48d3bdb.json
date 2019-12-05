@@ -1,0 +1,26 @@
+{
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "magic_missile": "2019-11-04 08:53:04 +0000"
+    },
+    "done": false
+  },
+  "ebwizardry:armour_set": {
+    "criteria": {
+      "wizard_hat": "2019-11-04 08:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-11-04 08:46:19 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2019-11-04 08:53:04 +0000"
+    },
+    "done": true
+  }
+}

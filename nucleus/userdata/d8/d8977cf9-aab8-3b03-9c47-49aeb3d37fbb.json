@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "jecobv",
+  "lastLocation": {
+    "x": 2.2437983205102183,
+    "y": 27.874293313096544,
+    "z": 10.300000011920934,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "lastLogin": 1568286876242,
+  "lastLogout": 1568287802463,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1567196568653,
+  "startedFirstJoin": false,
+  "fly": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "powertools": {},
+  "mail": [],
+  "homes": {},
+  "warnings": [],
+  "notes": []
+}

@@ -1,0 +1,628 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        }
+    ],
+    "BankData": [
+        {
+            "BankInv": [
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                            {
+                                "Slot": 1b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:runes/cen1",
+                                "Count": 1b,
+                                "tag": {
+                                    "RUNE_ITEM_DATA": {
+                                        "weapon": {
+                                            "baseModName": "CriticalHitFlat",
+                                            "type": 0,
+                                            "percent": 47
+                                        },
+                                        "armor": {
+                                            "baseModName": "HealthPercent",
+                                            "type": 1,
+                                            "percent": 50
+                                        },
+                                        "level": 1,
+                                        "name": "CEN",
+                                        "jewerly": {
+                                            "baseModName": "NaturePeneFlat",
+                                            "type": 0,
+                                            "percent": 35
+                                        },
+                                        "rarity": 1
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 3b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:rotten_flesh",
+                                "Count": 64b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 4b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:spider_eye",
+                                "Count": 6b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 5b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:log",
+                                "Count": 6b,
+                                "Damage": 2s
+                            },
+                            {
+                                "Slot": 6b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:wool",
+                                "Count": 1b,
+                                "Damage": 11s
+                            },
+                            {
+                                "Slot": 7b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:spell_ice_bomb",
+                                "Count": 1b,
+                                "tag": {
+                                    "SPELL_ITEM_DATA": {
+                                        "spellGUID": "IceBomb",
+                                        "level": 3,
+                                        "baseEffectPercent": 45,
+                                        "manaCostPercent": 77,
+                                        "scalingEffectPercent": 50,
+                                        "rarity": 1
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:wool",
+                                "Count": 1b,
+                                "Damage": 6s
+                            },
+                            {
+                                "Slot": 9b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:glowstone_dust",
+                                "Count": 7b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 10b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "lycanitesmobs:geistliver",
+                                "Count": 8b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 11b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:string",
+                                "Count": 23b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 12b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:chorus_fruit",
+                                "Count": 3b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 13b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 19s
+                            },
+                            {
+                                "Slot": 14b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:rotten_flesh",
+                                "Count": 30b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 15b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:wizard_robe_healing",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 30,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 1b,
+                                        "suffix": {
+                                            "baseAffix": "Of Vitality",
+                                            "percents": {
+                                                "0": 9,
+                                                "size": 1
+                                            }
+                                        },
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "HealthFlat",
+                                                    "type": 0,
+                                                    "percent": 37
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "sockets": {
+                                            "sockets": {
+                                                "size": 0
+                                            }
+                                        },
+                                        "gearTypeName": "Chest",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "ArmorFlat",
+                                                    "type": 0,
+                                                    "percent": 12
+                                                },
+                                                "1": {
+                                                    "baseModName": "ArmorFlat",
+                                                    "type": 0,
+                                                    "percent": 30
+                                                },
+                                                "size": 2
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 16b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:spell_poison_nova",
+                                "Count": 1b,
+                                "tag": {
+                                    "SPELL_ITEM_DATA": {
+                                        "spellGUID": "spell_poison_nova",
+                                        "level": 1,
+                                        "baseEffectPercent": 58,
+                                        "manaCostPercent": 63,
+                                        "scalingEffectPercent": 55,
+                                        "rarity": 1
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 17b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:spell_firebolt",
+                                "Count": 1b,
+                                "tag": {
+                                    "SPELL_ITEM_DATA": {
+                                        "spellGUID": "FireBolt",
+                                        "level": 1,
+                                        "baseEffectPercent": 29,
+                                        "manaCostPercent": 65,
+                                        "scalingEffectPercent": 44,
+                                        "rarity": 0
+                                    },
+                                    "rarity": 0
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 18b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:hammer/hammer1",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "uniqueStats-": 1b,
+                                        "level": 1,
+                                        "gearTypeStats-": 1b,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 59
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "Rarity": 1,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "runes-": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Hammer",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "secondaryStats": {
+                                            "AddedStat": 0b,
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "LifeOnHitFlat",
+                                                    "type": 0,
+                                                    "percent": 32
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 600s
+                            },
+                            {
+                                "Slot": 20b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 123s
+                            },
+                            {
+                                "Slot": 21b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:wool",
+                                "Count": 2b,
+                                "Damage": 1s
+                            },
+                            {
+                                "Slot": 22b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "ebwizardry:spell_book",
+                                "Count": 1b,
+                                "Damage": 160s
+                            },
+                            {
+                                "Slot": 23b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:ender_pearl",
+                                "Count": 3b,
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 24b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:spell_thunder_bomb",
+                                "Count": 1b,
+                                "tag": {
+                                    "SPELL_ITEM_DATA": {
+                                        "spellGUID": "ThunderBomb",
+                                        "level": 1,
+                                        "baseEffectPercent": 49,
+                                        "manaCostPercent": 94,
+                                        "scalingEffectPercent": 48,
+                                        "rarity": 1
+                                    },
+                                    "rarity": 1
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 25b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:spell_frostexplosion",
+                                "Count": 1b,
+                                "tag": {
+                                    "SPELL_ITEM_DATA": {
+                                        "spellGUID": "FrostExplosion",
+                                        "level": 3,
+                                        "baseEffectPercent": 42,
+                                        "manaCostPercent": 78,
+                                        "scalingEffectPercent": 39,
+                                        "rarity": 0
+                                    },
+                                    "rarity": 0
+                                },
+                                "Damage": 0s
+                            },
+                            {
+                                "Slot": 26b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mmorpg:sword/sword0",
+                                "Count": 1b,
+                                "tag": {
+                                    "GEAR_ITEM_DATA": {
+                                        "timesLeveledUp": 0,
+                                        "runes": {
+                                            "runes": {
+                                                "size": 0
+                                            },
+                                            "level": 1,
+                                            "runewords": {
+                                                "size": 0
+                                            },
+                                            "capacity": 1
+                                        },
+                                        "uniqueStats-": 1b,
+                                        "level": 1,
+                                        "isUnique": 0b,
+                                        "isNotFromMyMod": 0b,
+                                        "primaryStats": {
+                                            "Mods": {
+                                                "0": {
+                                                    "baseModName": "DamageFlat",
+                                                    "type": 0,
+                                                    "percent": 10
+                                                },
+                                                "size": 1
+                                            }
+                                        },
+                                        "gearTypeStats": {
+                                            "geartypeGUID": "Sword",
+                                            "percents": {
+                                                "0": 4,
+                                                "1": 6,
+                                                "size": 2
+                                            }
+                                        },
+                                        "Rarity": 0,
+                                        "secondaryStats-": 1b,
+                                        "sockets-": 1b,
+                                        "isSalvagable": 1b,
+                                        "chaosStats-": 1b,
+                                        "prefix-": 1b,
+                                        "suffix-": 1b,
+                                        "gearTypeName": "Sword",
+                                        "uniqueGUID-": 1b,
+                                        "set-": 1b,
+                                        "infusion-": 1b
+                                    },
+                                    "rarity": 0
+                                },
+                                "Damage": 330s
+                            }
+                        ]
+                    },
+                    "Slot": 0
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 1
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 2
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 3
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 4
+                },
+                {
+                    "BankItems": {
+                        "NpcMiscInv": [
+                        ]
+                    },
+                    "Slot": 5
+                }
+            ],
+            "UpdatedSlots": [
+                {
+                    "Slot": 0,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 1,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 2,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 3,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 4,
+                    "Boolean": 0b
+                },
+                {
+                    "Slot": 5,
+                    "Boolean": 0b
+                }
+            ],
+            "DataBankId": 0,
+            "UnlockedSlots": 1
+        }
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Zeedus",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 73908599L
+            },
+            {
+                "Quest": 2,
+                "Date": 725879880L
+            },
+            {
+                "Quest": 5,
+                "Date": 726169010L
+            }
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 6
+            }
+        ]
+    },
+    "UUID": "e698812e-5971-332a-bb6c-873ee832f00c",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 25
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 28
+        }
+    ]
+}

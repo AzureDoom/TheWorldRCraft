@@ -1,0 +1,17 @@
+Items {
+    MyItem {
+        type="org.spongepowered.api.item.inventory.ItemStack"
+        value {
+            ContentVersion=1
+            Count=1
+            ItemType="ironbackpacks:backpack"
+            UnsafeDamage=0
+            UnsafeData {
+                packInfo {
+                    spec=NONE
+                    type="ironbackpacks:basic"
+                }
+            }
+        }
+    }
+}

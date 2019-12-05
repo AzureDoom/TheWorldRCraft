@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "BluryHead",
+  "lastLogin": 1570140995792,
+  "lastLogout": 1570141864711,
+  "lastIP": "/94.197.120.7",
+  "firstJoin": 1570140995792,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "notes": [],
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "warnings": [],
+  "mail": [],
+  "homes": {},
+  "lastLocation": {
+    "x": 279.77984563545436,
+    "y": 101.0,
+    "z": 1326.909860011549,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "06153eba-604a-43e1-b6be-4e61636ef535"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "lastKnownName": "Nurami",
+  "lastLogin": 1569381669223,
+  "lastLogout": 1569387496036,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1569381669223,
+  "startedFirstJoin": false,
+  "fly": false,
+  "homes": {},
+  "isFrozen": false,
+  "ignoreList": [],
+  "jailOnNextLogin": false,
+  "warnings": [],
+  "vanish": false,
+  "notes": [],
+  "mail": [],
+  "invulnerable": false,
+  "lastLocation": {
+    "x": 7.413278294473387,
+    "y": 25.0,
+    "z": 75.59837536069274,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

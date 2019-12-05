@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "warnings": [],
+  "notes": [],
+  "lastKnownName": "daddybing",
+  "lastLogin": 1570988981630,
+  "lastLogout": 1570989644585,
+  "lastIP": "/68.67.82.144",
+  "firstJoin": 1570988981630,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "homes": {},
+  "lastLocation": {
+    "x": 0.5,
+    "y": 25.0,
+    "z": 81.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "TrashData",
+  "lastLogin": 1567053350316,
+  "lastLogout": 1567054171023,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1566564615701,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "vanish": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "lastLocation": {
+    "x": 8.491882353904657,
+    "y": 27.875,
+    "z": -20.84205044246093,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "warnings": [],
+  "mail": [],
+  "homes": {},
+  "notes": []
+}

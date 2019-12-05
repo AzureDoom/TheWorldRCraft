@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "fly": false,
+  "vanish": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "CrazyOldBird",
+  "lastLogin": 1570801819583,
+  "lastLogout": 1570803611296,
+  "lastIP": "/73.180.1.81",
+  "firstJoin": 1570671271662,
+  "startedFirstJoin": false,
+  "lastLocation": {
+    "x": -15.868291196672867,
+    "y": 22.1875,
+    "z": 14.130208996534748,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "mail": [],
+  "warnings": [],
+  "notes": [],
+  "homes": {}
+}

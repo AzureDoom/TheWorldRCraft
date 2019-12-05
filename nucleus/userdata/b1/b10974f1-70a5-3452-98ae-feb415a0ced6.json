@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "warnings": [],
+  "vanish": false,
+  "mail": [],
+  "fly": false,
+  "homes": {},
+  "notes": [],
+  "lastKnownName": "DALNino",
+  "lastLogin": 1570105495432,
+  "lastLogout": 1570106341868,
+  "lastIP": "/94.134.90.96",
+  "firstJoin": 1570105495432,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "lastLocation": {
+    "x": 6.821563644282586,
+    "y": 25.0,
+    "z": 87.69999998807907,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

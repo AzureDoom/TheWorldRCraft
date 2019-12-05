@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "warnings": [],
+  "notes": [],
+  "lastKnownName": "Korima0",
+  "lastLogin": 1571465342631,
+  "lastLogout": 1571467825316,
+  "lastIP": "/72.203.45.233",
+  "firstJoin": 1571465342631,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "homes": {},
+  "lastLocation": {
+    "x": 30.442760334030684,
+    "y": 22.1875,
+    "z": 47.014315538193316,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

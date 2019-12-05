@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "warnings": [],
+  "homes": {},
+  "jailOnNextLogin": false,
+  "fly": false,
+  "lastKnownName": "humez",
+  "lastLogin": 1572857952289,
+  "lastLogout": 1572858783291,
+  "lastIP": "/82.10.32.204",
+  "firstJoin": 1572857952289,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "vanish": false,
+  "mail": [],
+  "notes": [],
+  "lastLocation": {
+    "x": 9.418796112109721,
+    "y": 28.0,
+    "z": -25.663631458126787,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

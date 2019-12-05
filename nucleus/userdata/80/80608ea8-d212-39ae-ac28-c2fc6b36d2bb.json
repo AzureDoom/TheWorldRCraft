@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "lastKnownName": "AzureDoom",
+  "lastLocation": {
+    "x": 9.193557139752663,
+    "y": 26.0,
+    "z": -8.699396888102216,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "lastLogin": 1573528320764,
+  "lastLogout": 1573530796305,
+  "lastIP": "/71.60.144.111",
+  "firstJoin": 1568496404477,
+  "startedFirstJoin": false,
+  "fly": false,
+  "warnings": [],
+  "mail": [],
+  "notes": [],
+  "homes": {},
+  "powertools": {},
+  "ignoreList": []
+}

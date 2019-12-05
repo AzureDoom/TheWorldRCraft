@@ -1,0 +1,32 @@
+{
+  "ebwizardry:armour_set": {
+    "criteria": {
+      "criteria_0": "2019-07-21 12:29:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-07-21 12:25:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-07-21 12:28:46 -0500"
+    },
+    "done": true
+  },
+  "ebwizardry:element_master": {
+    "criteria": {
+      "criteria_0": "2019-07-21 12:25:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-07-21 12:28:17 -0500"
+    },
+    "done": false
+  }
+}

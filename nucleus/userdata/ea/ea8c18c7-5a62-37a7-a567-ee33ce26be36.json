@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "mail": [],
+  "homes": {},
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "lastLocation": {
+    "x": 8.5,
+    "y": 28.0,
+    "z": -22.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "lastLogin": 1568992405697,
+  "lastLogout": 1568992425052,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1568924546886,
+  "startedFirstJoin": false,
+  "fly": false,
+  "warnings": [],
+  "notes": [],
+  "lastKnownName": "Weasel"
+}

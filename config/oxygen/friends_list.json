@@ -1,0 +1,11 @@
+{
+  "version": "0.9.1:beta:0",
+  "setup": {
+    "list_save_delay_minutes": 2
+  },
+  "main": {
+    "friend_request_expire_time_seconds": 300,
+    "max_friends_amount": 20,
+    "max_ignored_amount": 20
+  }
+}

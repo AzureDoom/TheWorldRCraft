@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "warnings": [],
+  "notes": [],
+  "lastKnownName": "osbodav",
+  "lastLogin": 1571504890220,
+  "lastLogout": 1571507143704,
+  "lastIP": "/73.168.137.245",
+  "firstJoin": 1571504890220,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "homes": {},
+  "lastLocation": {
+    "x": 17.30000001192093,
+    "y": 23.0,
+    "z": 46.62026473812256,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

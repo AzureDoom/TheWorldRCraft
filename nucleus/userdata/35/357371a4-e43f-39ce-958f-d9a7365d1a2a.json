@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "linkage80",
+  "lastLocation": {
+    "x": 8.5,
+    "y": 28.0,
+    "z": -22.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  },
+  "lastLogin": 1572683752377,
+  "lastLogout": 1572683785792,
+  "lastIP": "/86.190.225.69",
+  "firstJoin": 1572683752377,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "isFrozen": false,
+  "mail": [],
+  "jailOnNextLogin": false,
+  "fly": false,
+  "homes": {},
+  "notes": [],
+  "warnings": [],
+  "invulnerable": false
+}

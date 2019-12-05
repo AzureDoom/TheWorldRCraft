@@ -1,0 +1,8 @@
+                   &eWelcome to The World R:Craft!
+&ePlease remember we are in Alpha currently so features will be missing for now and bugs will be everywhere. 
+
+&eIf you need help, you can look at our guide found here:
+					&chttps://cyberconnects2.github.io/TheWorldRCraftLauncher/#/
+
+&eIf you want to help us by reporting bugs or just talking to us, join our discord found at:
+                   &chttps://discord.gg/qjtuWQs

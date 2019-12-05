@@ -1,0 +1,113 @@
+[
+  {
+    "id": 190727223015675,
+    "name": "defaultGroup",
+    "prefix": "",
+    "suffix": "",
+    "username_color": "white",
+    "prefix_color": "white",
+    "suffix_color": "white",
+    "chat_color": "white",
+    "privileges": []
+  },
+  {
+    "id": 190806235433634,
+    "name": "operatorsGroup",
+    "prefix": "",
+    "suffix": "",
+    "username_color": "white",
+    "prefix_color": "white",
+    "suffix_color": "white",
+    "chat_color": "white",
+    "privileges": [
+      {
+        "name": "oxygen_mail:packagePostageValue",
+        "value": 0
+      },
+      {
+        "name": "oxygen_teleportation:enableMoveToLockedLocations",
+        "value": 1
+      },
+      {
+        "name": "oxygen_mail:mailSendingDelay",
+        "value": 10
+      },
+      {
+        "name": "oxygen_mail:remittanceMaxValue",
+        "value": 1000000
+      },
+      {
+        "name": "oxygen_teleportation:playerTeleportCooldown",
+        "value": 0
+      },
+      {
+        "name": "oxygen_teleportation:locationTeleportDelay",
+        "value": 0
+      },
+      {
+        "name": "oxygen_teleportation:enableCrossDimTeleportation",
+        "value": 1
+      },
+      {
+        "name": "oxygen_mail:mailboxSize",
+        "value": 150
+      },
+      {
+        "name": "oxygen_teleportation:campTeleportDelay",
+        "value": 0
+      },
+      {
+        "name": "oxygen_mail:remittancePostagePercent",
+        "value": 0
+      },
+      {
+        "name": "oxygen_mail:packageWithCODPostagePercent",
+        "value": 0
+      },
+      {
+        "name": "oxygen_mail:packageWithCODMaxValue",
+        "value": 100000
+      },
+      {
+        "name": "oxygen_friendslist:preventIgnore",
+        "value": 1
+      },
+      {
+        "name": "oxygen_teleportation:locationTeleportCooldown",
+        "value": 0
+      },
+      {
+        "name": "oxygen_teleportation:locationsManagement",
+        "value": 1
+      },
+      {
+        "name": "oxygen_mail:letterPostageValue",
+        "value": 0
+      },
+      {
+        "name": "oxygen_teleportation:enableTeleportationToAnyPlayer",
+        "value": 1
+      },
+      {
+        "name": "oxygen_teleportation:playerTeleportDelay",
+        "value": 0
+      },
+      {
+        "name": "oxygen_mail:packageMaxAmount",
+        "value": 1000
+      },
+      {
+        "name": "oxygen_teleportation:processTeleportationOnMove",
+        "value": 1
+      },
+      {
+        "name": "oxygen:exposePlayersOffline",
+        "value": 1
+      },
+      {
+        "name": "oxygen_teleportation:campTeleportCooldown",
+        "value": 0
+      }
+    ]
+  }
+]

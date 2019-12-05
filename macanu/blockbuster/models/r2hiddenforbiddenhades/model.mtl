@@ -1,0 +1,554 @@
+# Blender MTL File: 'None'
+# Material Count: 46
+
+newmtl cloud01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/cloud01/default.png
+map_Ka skins/cloud01/default.png
+
+newmtl cloud02
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/cloud02/default.png
+map_Ka skins/cloud02/default.png
+
+newmtl lamp01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/lamp01/default.png
+map_Ka skins/lamp01/default.png
+
+newmtl line01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/line01/default.png
+map_Ka skins/line01/default.png
+
+newmtl sae01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/sae01/default.png
+map_Ka skins/sae01/default.png
+
+newmtl scene01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/scene01/default.png
+map_Ka skins/scene01/default.png
+
+newmtl scene02
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/scene02/default.png
+map_Ka skins/scene02/default.png
+
+newmtl scene03
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/scene03/default.png
+map_Ka skins/scene03/default.png
+
+newmtl se2_02j01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02j01/default.png
+map_Ka skins/se2_02j01/default.png
+
+newmtl se2_02j02
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02j02/default.png
+map_Ka skins/se2_02j02/default.png
+
+newmtl se2_02j03
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02j03/default.png
+map_Ka skins/se2_02j03/default.png
+
+newmtl se2_02j04
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02j04/default.png
+map_Ka skins/se2_02j04/default.png
+
+newmtl se2_02wall01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall01/default.png
+map_Ka skins/se2_02wall01/default.png
+
+newmtl se2_02wall02
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall02/default.png
+map_Ka skins/se2_02wall02/default.png
+
+newmtl se2_02wall03
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall03/default.png
+map_Ka skins/se2_02wall03/default.png
+
+newmtl se2_02wall04
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall04/default.png
+map_Ka skins/se2_02wall04/default.png
+
+newmtl se2_02wall05
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall05/default.png
+map_Ka skins/se2_02wall05/default.png
+
+newmtl se2_02wall06
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall06/default.png
+map_Ka skins/se2_02wall06/default.png
+
+newmtl se2_02wall07
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall07/default.png
+map_Ka skins/se2_02wall07/default.png
+
+newmtl se2_02wall08
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall08/default.png
+map_Ka skins/se2_02wall08/default.png
+
+newmtl se2_02wall09
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall09/default.png
+map_Ka skins/se2_02wall09/default.png
+
+newmtl se2_02wall10
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall10/default.png
+map_Ka skins/se2_02wall10/default.png
+
+newmtl se2_02wall11
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall11/default.png
+map_Ka skins/se2_02wall11/default.png
+
+newmtl se2_02wall12
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall12/default.png
+map_Ka skins/se2_02wall12/default.png
+
+newmtl se2_02wall13
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall13/default.png
+map_Ka skins/se2_02wall13/default.png
+
+newmtl se2_02wall14
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall14/default.png
+map_Ka skins/se2_02wall14/default.png
+
+newmtl se2_02wall15
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall15/default.png
+map_Ka skins/se2_02wall15/default.png
+
+newmtl se2_02wall16
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall16/default.png
+map_Ka skins/se2_02wall16/default.png
+
+newmtl se2_02wall17
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall17/default.png
+map_Ka skins/se2_02wall17/default.png
+
+newmtl se2_02wall18
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall18/default.png
+map_Ka skins/se2_02wall18/default.png
+
+newmtl se2_02wall19
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall19/default.png
+map_Ka skins/se2_02wall19/default.png
+
+newmtl se2_02wall20
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall20/default.png
+map_Ka skins/se2_02wall20/default.png
+
+newmtl se2_02wall21
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall21/default.png
+map_Ka skins/se2_02wall21/default.png
+
+newmtl se2_02wall22
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall22/default.png
+map_Ka skins/se2_02wall22/default.png
+
+newmtl se2_02wall23
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall23/default.png
+map_Ka skins/se2_02wall23/default.png
+
+newmtl se2_02wall24
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall24/default.png
+map_Ka skins/se2_02wall24/default.png
+
+newmtl se2_02wall25
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/se2_02wall25/default.png
+map_Ka skins/se2_02wall25/default.png
+
+newmtl sea01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/sea01/default.png
+map_Ka skins/sea01/default.png
+
+newmtl sea02
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/sea02/default.png
+map_Ka skins/sea02/default.png
+
+newmtl sun01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/sun01/default.png
+map_Ka skins/sun01/default.png
+
+newmtl tetu01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/tetu01/default.png
+map_Ka skins/tetu01/default.png
+
+newmtl tree
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/tree/default.png
+map_Ka skins/tree/default.png
+
+newmtl triedgea
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/triedgea/default.png
+map_Ka skins/triedgea/default.png
+
+newmtl triedgea01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/triedgea01/default.png
+map_Ka skins/triedgea01/default.png
+
+newmtl triedgeb
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/triedgeb/default.png
+map_Ka skins/triedgeb/default.png
+
+newmtl triedgeb01
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins/triedgeb01/default.png
+map_Ka skins/triedgeb01/default.png

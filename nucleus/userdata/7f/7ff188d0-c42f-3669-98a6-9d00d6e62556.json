@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "PanzerTruck",
+  "lastLogin": 1570177672370,
+  "lastLogout": 1570179475747,
+  "lastIP": "/96.37.125.107",
+  "firstJoin": 1570177672370,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "notes": [],
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "warnings": [],
+  "mail": [],
+  "homes": {},
+  "lastLocation": {
+    "x": 8.5,
+    "y": 25.0,
+    "z": 86.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}

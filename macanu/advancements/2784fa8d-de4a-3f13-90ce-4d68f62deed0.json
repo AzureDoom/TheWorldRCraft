@@ -1,0 +1,14 @@
+{
+  "ebwizardry:armour_set": {
+    "criteria": {
+      "wizard_hat": "2019-09-25 09:13:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-09-25 08:59:06 -0500"
+    },
+    "done": true
+  }
+}

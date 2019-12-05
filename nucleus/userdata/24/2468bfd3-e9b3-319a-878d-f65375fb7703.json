@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "homes": {},
+  "mail": [],
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "lastKnownName": "vifaroh",
+  "lastLogin": 1569327731116,
+  "lastLogout": 1569330190861,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1569262876034,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "warnings": [],
+  "isFrozen": false,
+  "notes": [],
+  "lastLocation": {
+    "x": 8.430896759033203,
+    "y": 36.0,
+    "z": 8.25035285949707,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "0374f502-56b0-450b-aee0-edd83b0dff35"
+  }
+}

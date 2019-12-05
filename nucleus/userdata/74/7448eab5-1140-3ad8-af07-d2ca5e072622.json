@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "isFrozen": false,
+  "lastKnownName": "AzureZhen",
+  "lastLogin": 1569203162209,
+  "lastLogout": 1569206749202,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1566537040018,
+  "startedFirstJoin": false,
+  "invulnerable": true,
+  "fly": true,
+  "lastLocation": {
+    "x": 7.457826192780036,
+    "y": 77.0,
+    "z": -20.389315215544944,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "69eadc7e-dfa5-4dde-8fc4-960e7b3d9daf"
+  },
+  "homes": {},
+  "mail": [],
+  "warnings": [],
+  "notes": [],
+  "ignoreList": [],
+  "powertools": {}
+}

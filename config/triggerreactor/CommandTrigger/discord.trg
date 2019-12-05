@@ -1,0 +1,1 @@
+#CMDCON "tell " + $playername + " https://discord.gg/BpU8C77" 

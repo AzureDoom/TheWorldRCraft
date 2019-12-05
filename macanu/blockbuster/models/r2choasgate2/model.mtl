@@ -1,0 +1,38 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl TEX_xw00
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_xw00\default.png
+map_Ka skins\\TEX_xw00\\default.png
+
+newmtl TEX_xw01
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_xw01\default.png
+map_Ka skins\\TEX_xw01\\default.png
+
+newmtl TEX_xw02
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 0
+map_Kd skins\TEX_xw02\default.png
+map_Ka skins\\TEX_xw02\\default.png

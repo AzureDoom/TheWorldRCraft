@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "warnings": [],
+  "homes": {},
+  "jailOnNextLogin": false,
+  "fly": false,
+  "lastKnownName": "CubedSmorez",
+  "lastLogin": 1573092538879,
+  "lastLogout": 1573095358553,
+  "lastIP": "/24.251.60.244",
+  "firstJoin": 1573092538879,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "vanish": false,
+  "mail": [],
+  "notes": [],
+  "ignoreList": [],
+  "lastLocation": {
+    "x": 10.024144504041335,
+    "y": 25.0,
+    "z": 13.067663655706715,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ae8b0073-864a-484b-a312-7db1528c394d"
+  }
+}
